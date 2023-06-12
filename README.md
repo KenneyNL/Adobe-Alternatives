@@ -49,6 +49,7 @@
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, iOS)*
 - ✨ [MyPaint](https://mypaint.app/) *(Windows, Mac, Linux)*
 - 💵 [Corel Painter](https://www.painterartist.com/) *(Windows, Mac)*
+- 💵 [Rebelle](https://www.escapemotions.com/products/rebelle/) *(Windows, Mac)*
 
 #### Pixel art
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) *(Browser)*
@@ -109,6 +110,7 @@
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac, Linux)*
 - ✨ [ArmorPaint](https://armorpaint.org/) *(Windows, Linux)*
 - 💵 [3DCoat](https://3dcoat.com/) *(Windows, Mac, Linux)*
+- 💵 (or 🔒) [Marmoset Toolbag](https://marmoset.co/toolbag/) *(Windows, Mac)*
 
 ## Lightroom
 
