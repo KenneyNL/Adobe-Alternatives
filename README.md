@@ -181,7 +181,7 @@
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband/) *(Mac)*
 - ⭐️ (💵) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, Mac)*
 - 💵 [Logic Pro](https://www.apple.com/logic-pro/) *(Mac, iOS)*
-- 💵 [Live by Ableton](https://www.ableton.com/en/live/) *(Windows, Mac)*
+- 💵 [Ableton Live](https://www.ableton.com/en/live/) *(Windows, Mac)*
 - 💵 [FL Studio](https://www.image-line.com/) *(Windows, Mac, Android)*
 
 ## After Effects
