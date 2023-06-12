@@ -116,3 +116,20 @@
 - 💵 Sony Vegas *(Windows)*
 - 💵 Final Cut Pro X *(Mac)*
 - 🔒 Kapwing *(Windows, Mac, Linux)*
+
+## Acrobat
+
+- 💵 PDF XChange *(Windows)*
+- ⭐️ Xodo *(Browser)*
+- ⭐️ PDF24 *(Windows)*
+
+## Bridge
+
+- ⭐️ XnView MP *(Windows, Mac, Linux)*
+
+## Dreamweaver
+
+- ✨ Netbeans *(Windows, Mac, Linux)*
+- ✨ VS Codium *(Windows, Mac, Linux)*
+- ⭐️ VS Code *(Windows, Mac, Linux)*
+- 💵 Blue Griffon *(Windows, Mac, Linux)*
