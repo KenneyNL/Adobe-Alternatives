@@ -72,26 +72,26 @@
 - ✨ Synfig *(Browser)*
 
 #### Honorable mentions
-- ✨ Krita *(Windows, Mac, Linux, Android)*
-- ✨ Pencil 2D *(Windows, Mac, Linux)*
+- ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
+- ✨ [Pencil2D](https://www.pencil2d.org/) *(Windows, Mac, Linux)*
 - ✨ [FireAlpaca](https://firealpaca.com/) *(Windows, Mac)*
 
 ## InDesign
 
-- ✨ Scribus *(Windows, Mac, Linux)*
-- 💵 Affinity Publisher *(Windows, Mac)*
-- 💵 QuarkXPress *(Windows, Mac)*
+- ✨ [Scribus](https://www.scribus.net/) *(Windows, Mac, Linux)*
+- 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/) *(Windows, Mac)*
+- 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, Mac)*
 
 ## Substance
 
 #### Designer
-- ⭐️ Quixel Mixer *(Windows, Mac, Linux)*
-- ✨ Material Maker *(Windows, Mac, Linux)*
+- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac, Linux)*
+- ✨ [Material Maker](https://www.materialmaker.org/) *(Windows, Mac, Linux)*
 
 #### Painter
-- ⭐️ Quixel Mixer *(Windows, Mac, Linux)*
-- ✨ Armor Paint *(Windows, Linux)*
-- 💵 3D Coat *(Windows, Mac, Linux)*
+- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac, Linux)*
+- ✨ [ArmorPaint](https://armorpaint.org/) *(Windows, Linux)*
+- 💵 [3DCoat](https://3dcoat.com/) *(Windows, Mac, Linux)*
 
 ## Lightroom
 
@@ -128,26 +128,26 @@
 
 ## Acrobat
 
-- 💵 PDF XChange *(Windows)*
-- ⭐️ Xodo *(Browser)*
-- ⭐️ PDF24 *(Windows)*
+- 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor/) *(Windows)*
+- ⭐️ [Xodo](https://xodo.com/) *(Browser)*
+- ⭐️ [PDF24](https://www.pdf24.org/en/) *(Windows)*
 
 ## Bridge
 
-- ⭐️ XnView MP *(Windows, Mac, Linux)*
+- ⭐️ [XnView MP](https://www.xnview.com/en/xnviewmp/) *(Windows, Mac, Linux)*
 
 ## Dreamweaver
 
-- ✨ Netbeans *(Windows, Mac, Linux)*
-- ✨ VS Codium *(Windows, Mac, Linux)*
-- ⭐️ VS Code *(Windows, Mac, Linux)*
-- 💵 Blue Griffon *(Windows, Mac, Linux)*
+- ✨ [Netbeans](https://netbeans.apache.org/) *(Windows, Mac, Linux)*
+- ✨ [VSCodium](https://vscodium.com/) *(Windows, Mac, Linux)*
+- ⭐️ [Visual Studio Code](https://code.visualstudio.com/) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [Blue Griffon](http://www.bluegriffon.org/) *(Windows, Mac, Linux)*
 
 ## Audition
 
 #### General
 
-- ✨ Audacity *(Windows, Mac, Linux)*
+- ✨ [Audacity](https://www.audacityteam.org/) *(Windows, Mac, Linux)*
 - ⭐️ Ocenaudio *(Windows)*
 - ⭐️ (💵) DaVinci Fairlight *(Windows, Mac, Linux)*
 - ⭐️ iZotope RX *(Windows, Mac)*
@@ -169,8 +169,8 @@
 
 #### Compositing & FX
 
-- ✨ Natron *(Windows, Mac, Linux)*
-- ✨ Blender *(Windows, Mac, Linux)*
+- ✨ [Natron](https://natrongithub.github.io/) *(Windows, Mac, Linux)*
+- ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) DaVinci Fusion *(Windows, Mac, Linux)*
 - ⭐️ (💵) HitFilm *(Windows, Mac, Linux)*
 
@@ -180,5 +180,5 @@
 - 🔒 Rive *(Windows, Mac, Linux)*
 - 🔒 Jitter *(Windows, Mac, Linux)*
 - ⭐️ Fable *(Windows, Mac, Linux)*
-- ✨ Blender *(Windows, Mac, Linux)*
+- ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
 - ✨ Enve *(Windows, Mac, Linux)*
