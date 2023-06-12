@@ -109,7 +109,6 @@
 
 - ✨ Penpot *(Windows, Mac, Linux)*
 - ✨ Draftoola *(Linux)*
-- 🔒 Figma *(Windows, Mac, Linux)*
 - 🔒 Framer *(Windows, Mac, Linux)*
 - 💵 Sketch *(Mac)*
 - 💵 Lunacy *(Windows, Mac, Linux)*
