@@ -52,6 +52,7 @@
 
 #### Pixel art
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) *(Browser)*
+- ✨ [LibreSprite](https://libresprite.github.io/) *(Windows, Mac, Linux)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor/) *(Windows, Mac)*
 - ✨ (or 💵) [Aseprite](https://www.aseprite.org/) *(Windows, Mac, Linux)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
@@ -81,6 +82,7 @@
 - 💵 Toonboom *(Windows, Mac, Linux)*
 - 💵 Clip Studio EX *(Windows, Mac)*
 - 💵 Moho *(Windows, Mac)*
+- ✨ [Tahoma2d](https://tahoma2d.org/) *(Windows, Mac, Linux)
 - ✨ Blender *(Windows, Mac, Linux)*
 - ✨ Open Toonz *(Windows, Mac, Linux)*
 - ✨ Wick Editor *(Browser)*
@@ -133,13 +135,13 @@
 
 ## Premiere
 
-- ✨ [Olive](https://olivevideoeditor.org/) *(Windows, Mac, Linux)*
-- ✨ [Kdenlive](https://kdenlive.org/en/) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
-- 💵 [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) *(Windows)*
-- 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro/) *(Mac, iOS)*
-- 🔒 [Kapwing](https://www.kapwing.com/) *(Browser)*
-- 🔒 [CapCut](https://www.capcut.com/) *(Browser, Windows, iOS, Android)*
+- ✨ Olive *(Windows, Mac, Linux)*
+- ✨ Kdenlive *(Windows, Mac, Linux)*
+- ⭐️ (💵) DaVinci Resolve *(Windows, Mac, Linux)*
+- 💵 Vegas Pro *(Windows)*
+- 💵 Final Cut Pro *(Mac, iOS)*
+- 🔒 Kapwing *(Windows, Mac, Linux)*
+- 🔒 (💵) [CapCut](https://www.capcut.com/) *(Browser, Windows, iOS, Android)*
 
 ## Acrobat
 
