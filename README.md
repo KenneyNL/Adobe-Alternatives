@@ -146,7 +146,7 @@
 ## Acrobat
 
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor/) *(Windows)*
-- ⭐️ [Xodo](https://xodo.com/) *(Browser)*
+- 🔒 [Xodo](https://xodo.com/) *(Browser)*
 - ⭐️ [PDF24](https://www.pdf24.org/en/) *(Windows)*
 
 ## Bridge
