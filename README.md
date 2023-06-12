@@ -133,3 +133,25 @@
 - ✨ VS Codium *(Windows, Mac, Linux)*
 - ⭐️ VS Code *(Windows, Mac, Linux)*
 - 💵 Blue Griffon *(Windows, Mac, Linux)*
+
+## Audition
+
+#### General
+
+- ✨ Audacity *(Windows, Mac, Linux)*
+- ⭐️ Ocenaudio *(Windows)*
+- ⭐️ (💵) DaVinci Fairlight *(Windows, Mac, Linux)*
+- ⭐️ iZotope RX *(Windows, Mac)*
+
+#### DAWs
+
+- ⭐️ Cakewalk *(Windows)*
+- ✨ Ardour *(Windows, Mac, Linux)*
+- ✨ LMMS *(Windows, Mac, Linux)*
+- 💵 Reaper *(Windows, Mac, Linux)*
+- ⭐️ (💵) Tracktion *(Windows, Mac, Linux)*
+- ⭐️ Garageband *(Mac)*
+- ⭐️ (💵) Pro Tools *(Windows, Mac)*
+- 💵 Logic Pro *(Mac)*
+- 💵 Live by Ableton *(Windows, Mac)*
+- 💵 FL Studio *(Windows, Mac, Android)*
