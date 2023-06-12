@@ -1,6 +1,6 @@
 # Adobe Alternatives
 
-> A list of alternatives for Adobe software, originally collected by [@XdanielArt](https://twitter.com/XdanielArt) and improved upon by the community,
+> A list of alternatives for Adobe software, originally collected by [@XdanielArt](https://twitter.com/XdanielArt) and improved upon by the community. Feel free to open issues or pull requests, or create an image (for easy sharing) out of the data.
 
 **Legend:**
 - ✨ = Free & open source
