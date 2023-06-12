@@ -82,7 +82,7 @@
 ## Substance
 
 #### Designer
-- ✨ Quixel Mixer *(Windows, Mac, Linux)*
+- ⭐️ Quixel Mixer *(Windows, Mac, Linux)*
 - ✨ Material Maker *(Windows, Mac, Linux)*
 
 #### Painter
