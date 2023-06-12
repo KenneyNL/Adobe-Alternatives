@@ -155,3 +155,21 @@
 - 💵 Logic Pro *(Mac)*
 - 💵 Live by Ableton *(Windows, Mac)*
 - 💵 FL Studio *(Windows, Mac, Android)*
+
+## After Effects
+
+#### Compositing & FX
+
+- ✨ Natron *(Windows, Mac, Linux)*
+- ✨ Blender *(Windows, Mac, Linux)*
+- ⭐️ (💵) DaVinci Fusion *(Windows, Mac, Linux)*
+- ⭐️ (💵) HitFilm *(Windows, Mac, Linux)*
+
+#### Motion graphics
+
+- 🔒 Cavalry *(Windows, Mac)*
+- 🔒 Rive *(Windows, Mac, Linux)*
+- 🔒 Jitter *(Windows, Mac, Linux)*
+- ⭐️ Fable *(Windows, Mac, Linux)*
+- ✨ Blender *(Windows, Mac, Linux)*
+- ✨ Enve *(Windows, Mac, Linux)*
