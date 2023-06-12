@@ -1,2 +1,3 @@
-# Adobe-Alternatives
-A list of alternatives for Adobe software
+# Photoshop
+- GIMP/Glimpse
+- Affinity Photo
