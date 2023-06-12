@@ -1,6 +1,8 @@
 # Adobe Alternatives
 
-Legend:
+> A list of alternatives for Adobe software, originally collected by [@XdanielArt](https://twitter.com/XdanielArt) and improved upon by the community,
+
+**Legend:**
 - ✨ = Free & open source
 - ⭐️ = Free of charge
 - 💵 = Single purchase
@@ -32,3 +34,17 @@ Legend:
 - 💵 Paintstorm *(Windows, Mac, iOS)*
 - ✨ MyPaint *(Windows, Mac, Linux)*
 - 💵 CorelPainter *(Windows, Mac)*
+
+## Illustrator
+
+### General
+- ✨ Inkscape *(Windows, Mac, Linux)*
+- ⭐️ Boxy SVG *(Windows, Mac, Linux)*
+- ⭐️ Gravit Designer *(Windows, Mac, Linux)*
+- 💵 Affinity Designer *(Windows, Mac, iOS)*
+- 💵 Vectornator *(Mac, iOS)*
+- 💵 Corel Draw *(Windows, Mac)*
+- 💵 Xara Designer *(Windows)*
+
+### Live trace
+- 💵 Vector Magic *(Windows, Mac, Linux)*
