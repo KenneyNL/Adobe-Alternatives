@@ -98,7 +98,7 @@
 
 ## XD
 
-- ✨Penpot *(Windows, Mac, Linux)*
+- ✨ Penpot *(Windows, Mac, Linux)*
 - ✨ Draftoola *(Linux)*
 - 🔒 Figma *(Windows, Mac, Linux)*
 - 🔒 Framer *(Windows, Mac, Linux)*
@@ -107,3 +107,12 @@
 - 💵 Origami *(Mac)*
 - 💵 Axure RP *(Windows, Mac)*
 - 💵 Principle *(Mac)*
+
+## Premiere
+
+- ✨ Olive *(Windows, Mac, Linux)*
+- ✨ Kdenlive *(Windows, Mac, Linux)*
+- ⭐️ (💵) DaVinci Resolve *(Windows, Mac, Linux)*
+- 💵 Sony Vegas *(Windows)*
+- 💵 Final Cut Pro X *(Mac)*
+- 🔒 Kapwing *(Windows, Mac, Linux)*
