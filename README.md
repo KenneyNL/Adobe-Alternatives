@@ -66,3 +66,20 @@
 - ✨ Krita *(Windows, Mac, Linux, Android)*
 - ✨ Pencil 2D *(Windows, Mac, Linux)*
 - ✨ Firealpaca *(Windows, Mac)*
+
+## InDesign
+
+- ✨ Scribus *(Windows, Mac, Linux)*
+- 💵 Affinity Publisher *(Windows, Mac)*
+- 💵 QuarkXPress *(Windows, Mac)*
+
+## Substance
+
+#### Designer
+- ✨ Quixel Mixer *(Windows, Mac, Linux)*
+- ✨ Material Maker *(Windows, Mac, Linux)*
+
+#### Painter
+- ⭐️ Quixel Mixer *(Windows, Mac, Linux)*
+- ✨ Armor Paint *(Windows, Linux)*
+- 💵 3D Coat *(Windows, Mac, Linux)*
