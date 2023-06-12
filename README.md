@@ -12,14 +12,14 @@
 
 #### Photography
 - ✨ [GIMP](https://www.gimp.org/) *(Windows, Mac, Linux)*
-- ⭐️ Sumo Paint *(Windows, Mac, Linux)*
+- ⭐️ [Sumo Paint](https://sumo.app/) *(Windows, Mac, Linux)*
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo/) *(Windows, Mac, iOS)*
-- 💵 Photoline *(Windows, Mac)*
-- ⭐️ Photopea *(Windows, Mac, Linux)*
-- ⭐️ Paint.NET *(Windows)*
-- 💵 Pixelmator Pro *(Mac)*
-- ⭐️ PaintShop Pro *(Windows)*
-- ⭐️ Pxlr *(Windows, Mac, Linux)*
+- 💵 [Photoline](https://www.pl32.com/) *(Windows, Mac)*
+- ⭐️ [Photopea](https://www.photopea.com/) *(Browser)*
+- ⭐️ [Paint.NET](https://www.getpaint.net/) *(Windows)*
+- 💵 [Pixelmator Pro](https://www.pixelmator.com/pro/) *(Mac)*
+- 💵 [PaintShop Pro](https://www.paintshoppro.com/) *(Windows)*
+- ⭐️ [Pxlr](https://pixlr.com/) *(Browser)*
 
 #### Painting
 - ✨ Krita *(Windows, Mac, Linux, Android)*
@@ -34,6 +34,12 @@
 - 💵 Paintstorm *(Windows, Mac, iOS)*
 - ✨ MyPaint *(Windows, Mac, Linux)*
 - 💵 CorelPainter *(Windows, Mac)*
+
+#### Pixel art
+- ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) *(Browser)*
+- ✨ (or 💵) [Aseprite](https://www.aseprite.org/) *(Windows, Mac, Linux)*
+- 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
+- ⭐️ MS Paint *(Windows)*
 
 ## Illustrator
 
