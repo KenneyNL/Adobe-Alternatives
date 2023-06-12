@@ -133,13 +133,13 @@
 
 ## Premiere
 
-- ✨ Olive *(Windows, Mac, Linux)*
-- ✨ Kdenlive *(Windows, Mac, Linux)*
-- ⭐️ (💵) DaVinci Resolve *(Windows, Mac, Linux)*
-- 💵 Vegas Pro *(Windows)*
-- 💵 Final Cut Pro *(Mac, iOS)*
-- 🔒 Kapwing *(Windows, Mac, Linux)*
-- 🔒 (💵) [CapCut](https://www.capcut.com/) *(Browser, Windows, iOS, Android)*
+- ✨ [Olive](https://olivevideoeditor.org/) *(Windows, Mac, Linux)*
+- ✨ [Kdenlive](https://kdenlive.org/en/) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
+- 💵 [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) *(Windows)*
+- 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro/) *(Mac, iOS)*
+- 🔒 [Kapwing](https://www.kapwing.com/) *(Browser)*
+- 🔒 [CapCut](https://www.capcut.com/) *(Browser, Windows, iOS, Android)*
 
 ## Acrobat
 
