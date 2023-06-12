@@ -83,3 +83,27 @@
 - ⭐️ Quixel Mixer *(Windows, Mac, Linux)*
 - ✨ Armor Paint *(Windows, Linux)*
 - 💵 3D Coat *(Windows, Mac, Linux)*
+
+## Lightroom
+
+- ✨ RawTherapee *(Windows, Mac, Linux)*
+- ✨ Darktable *(Windows, Mac, Linux)*
+- ✨ DigiKam *(Windows, Mac, Linux)*
+- 💵 On1 *(Windows, Mac, Linux)*
+- 💵 FastRawViewerv *(Windows, Mac)*
+- 💵 Capture One *(Windows, Mac)*
+- 💵 Dx0 PhotoLab *(Windows, Mac)*
+- 💵 Luminar *(Windows, Mac)*
+- 💵 Aurora *(Windows, Mac)*
+
+## XD
+
+- ✨Penpot *(Windows, Mac, Linux)*
+- ✨ Draftoola *(Linux)*
+- 🔒 Figma *(Windows, Mac, Linux)*
+- 🔒 Framer *(Windows, Mac, Linux)*
+- 💵 Sketch *(Mac)*
+- 💵 Lunacy *(Windows, Mac, Linux)*
+- 💵 Origami *(Mac)*
+- 💵 Axure RP *(Windows, Mac)*
+- 💵 Principle *(Mac)*
