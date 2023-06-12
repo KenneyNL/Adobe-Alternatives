@@ -152,6 +152,7 @@
 ## Bridge
 
 - ⭐️ [XnView MP](https://www.xnview.com/en/xnviewmp/) *(Windows, Mac, Linux)*
+- 🔒 [Anchorpoint](https://www.anchorpoint.app/) *(Windows, Mac)*
 
 ## Dreamweaver
 
