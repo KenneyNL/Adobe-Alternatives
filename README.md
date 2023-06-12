@@ -119,7 +119,7 @@
 - ✨ Olive *(Windows, Mac, Linux)*
 - ✨ Kdenlive *(Windows, Mac, Linux)*
 - ⭐️ (💵) DaVinci Resolve *(Windows, Mac, Linux)*
-- 💵 Sony Vegas *(Windows)*
+- 💵 Vegas Pro *(Windows)*
 - 💵 Final Cut Pro X *(Mac)*
 - 🔒 Kapwing *(Windows, Mac, Linux)*
 
