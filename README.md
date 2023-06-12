@@ -137,7 +137,7 @@
 - ✨ Kdenlive *(Windows, Mac, Linux)*
 - ⭐️ (💵) DaVinci Resolve *(Windows, Mac, Linux)*
 - 💵 Vegas Pro *(Windows)*
-- 💵 Final Cut Pro X *(Mac)*
+- 💵 Final Cut Pro *(Mac, iOS)*
 - 🔒 Kapwing *(Windows, Mac, Linux)*
 - 🔒 (💵) [CapCut](https://www.capcut.com/) *(Browser, Windows, iOS, Android)*
 
@@ -176,7 +176,7 @@
 - ⭐️ (💵) Tracktion *(Windows, Mac, Linux)*
 - ⭐️ Garageband *(Mac)*
 - ⭐️ (💵) Pro Tools *(Windows, Mac)*
-- 💵 Logic Pro *(Mac)*
+- 💵 Logic Pro *(Mac, iOS)*
 - 💵 Live by Ableton *(Windows, Mac)*
 - 💵 FL Studio *(Windows, Mac, Android)*
 
