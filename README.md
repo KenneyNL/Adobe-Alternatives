@@ -44,16 +44,16 @@
 ## Illustrator
 
 #### General
-- ✨ Inkscape *(Windows, Mac, Linux)*
-- ⭐️ Boxy SVG *(Windows, Mac, Linux)*
-- ⭐️ Gravit Designer *(Windows, Mac, Linux)*
-- 💵 Affinity Designer *(Windows, Mac, iOS)*
-- 💵 Vectornator *(Mac, iOS)*
-- 💵 Corel Draw *(Windows, Mac)*
-- 💵 Xara Designer *(Windows)*
+- ✨ [Inkscape](https://inkscape.org/) *(Windows, Mac, Linux)*
+- ⭐️ [Boxy SVG](https://boxy-svg.com/) *(Browser)*
+- 🔒 [Corel Vector](https://app.corelvector.com/) *(Browser)*
+- 💵 [Corel Draw](https://www.coreldraw.com/) *(Windows, Mac)*
+- 💵 [Affinity Designer](https://affinity.serif.com/en-us/) *(Windows, Mac, iOS)*
+- 💵 [Vectornator](https://www.vectornator.io/) *(Mac, iOS)*
+- 💵 [Xara Designer](https://www.xara.com/designerpro-plus/) *(Windows)*
 
 #### Live trace
-- 💵 Vector Magic *(Windows, Mac, Linux)*
+- 💵 [Vector Magic](https://vectormagic.com/) *(Windows, Mac, Linux)*
 
 ## Animate
 
