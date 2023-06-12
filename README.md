@@ -8,6 +8,22 @@
 - 💵 = Single purchase
 - 🔒 = Subscription for more functions
 
+## **Softwares Alternative To:**
+- [Photoshop](https://github.com/KenneyNL/Adobe-Alternatives#photoshop)
+- [Illustrator](https://github.com/KenneyNL/Adobe-Alternatives#illustrator)
+- [Animate](https://github.com/KenneyNL/Adobe-Alternatives#animate)
+- [InDesign](https://github.com/KenneyNL/Adobe-Alternatives#indesign)
+- [Substance](https://github.com/KenneyNL/Adobe-Alternatives#substance)
+- [Lightroom](https://github.com/KenneyNL/Adobe-Alternatives#lightroom)
+- [XD](https://github.com/KenneyNL/Adobe-Alternatives#xd)
+- [Premier](https://github.com/KenneyNL/Adobe-Alternatives#premier)
+- [Acrobat](https://github.com/KenneyNL/Adobe-Alternatives#acrobat)
+- [Bridge](https://github.com/KenneyNL/Adobe-Alternatives#bridge)
+- [Dreamweaver](https://github.com/KenneyNL/Adobe-Alternatives#dreamweaver)
+- [Audition](https://github.com/KenneyNL/Adobe-Alternatives#audition)
+- [After Effects](https://github.com/KenneyNL/Adobe-Alternatives#after-effects)
+
+
 ## Photoshop
 
 #### Photography
@@ -42,7 +58,7 @@
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 - ✨ [Pixelorama](https://orama-interactive.itch.io/pixelorama) *(Browser, Windows, Mac, Linux, Raspberry Pi)*
-- ✨ [PixiEditor](https://pixieditor.net/) *(Windows)*
+- ✨[PixiEditor](https://pixieditor.net/)
 
 ## Illustrator
 
@@ -72,26 +88,26 @@
 - ✨ Synfig *(Browser)*
 
 #### Honorable mentions
-- ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
-- ✨ [Pencil2D](https://www.pencil2d.org/) *(Windows, Mac, Linux)*
+- ✨ Krita *(Windows, Mac, Linux, Android)*
+- ✨ Pencil 2D *(Windows, Mac, Linux)*
 - ✨ [FireAlpaca](https://firealpaca.com/) *(Windows, Mac)*
 
 ## InDesign
 
-- ✨ [Scribus](https://www.scribus.net/) *(Windows, Mac, Linux)*
-- 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/) *(Windows, Mac)*
-- 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, Mac)*
+- ✨ Scribus *(Windows, Mac, Linux)*
+- 💵 Affinity Publisher *(Windows, Mac)*
+- 💵 QuarkXPress *(Windows, Mac)*
 
 ## Substance
 
 #### Designer
-- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac, Linux)*
-- ✨ [Material Maker](https://www.materialmaker.org/) *(Windows, Mac, Linux)*
+- ⭐️ Quixel Mixer *(Windows, Mac, Linux)*
+- ✨ Material Maker *(Windows, Mac, Linux)*
 
 #### Painter
-- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac, Linux)*
-- ✨ [ArmorPaint](https://armorpaint.org/) *(Windows, Linux)*
-- 💵 [3DCoat](https://3dcoat.com/) *(Windows, Mac, Linux)*
+- ⭐️ Quixel Mixer *(Windows, Mac, Linux)*
+- ✨ Armor Paint *(Windows, Linux)*
+- 💵 3D Coat *(Windows, Mac, Linux)*
 
 ## Lightroom
 
@@ -128,26 +144,26 @@
 
 ## Acrobat
 
-- 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor/) *(Windows)*
-- ⭐️ [Xodo](https://xodo.com/) *(Browser)*
-- ⭐️ [PDF24](https://www.pdf24.org/en/) *(Windows)*
+- 💵 PDF XChange *(Windows)*
+- ⭐️ Xodo *(Browser)*
+- ⭐️ PDF24 *(Windows)*
 
 ## Bridge
 
-- ⭐️ [XnView MP](https://www.xnview.com/en/xnviewmp/) *(Windows, Mac, Linux)*
+- ⭐️ XnView MP *(Windows, Mac, Linux)*
 
 ## Dreamweaver
 
-- ✨ [Netbeans](https://netbeans.apache.org/) *(Windows, Mac, Linux)*
-- ✨ [VSCodium](https://vscodium.com/) *(Windows, Mac, Linux)*
-- ⭐️ [Visual Studio Code](https://code.visualstudio.com/) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [Blue Griffon](http://www.bluegriffon.org/) *(Windows, Mac, Linux)*
+- ✨ Netbeans *(Windows, Mac, Linux)*
+- ✨ VS Codium *(Windows, Mac, Linux)*
+- ⭐️ VS Code *(Windows, Mac, Linux)*
+- 💵 Blue Griffon *(Windows, Mac, Linux)*
 
 ## Audition
 
 #### General
 
-- ✨ [Audacity](https://www.audacityteam.org/) *(Windows, Mac, Linux)*
+- ✨ Audacity *(Windows, Mac, Linux)*
 - ⭐️ Ocenaudio *(Windows)*
 - ⭐️ (💵) DaVinci Fairlight *(Windows, Mac, Linux)*
 - ⭐️ iZotope RX *(Windows, Mac)*
@@ -169,8 +185,8 @@
 
 #### Compositing & FX
 
-- ✨ [Natron](https://natrongithub.github.io/) *(Windows, Mac, Linux)*
-- ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
+- ✨ Natron *(Windows, Mac, Linux)*
+- ✨ Blender *(Windows, Mac, Linux)*
 - ⭐️ (💵) DaVinci Fusion *(Windows, Mac, Linux)*
 - ⭐️ (💵) HitFilm *(Windows, Mac, Linux)*
 
@@ -180,5 +196,5 @@
 - 🔒 Rive *(Windows, Mac, Linux)*
 - 🔒 Jitter *(Windows, Mac, Linux)*
 - ⭐️ Fable *(Windows, Mac, Linux)*
-- ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
+- ✨ Blender *(Windows, Mac, Linux)*
 - ✨ Enve *(Windows, Mac, Linux)*
