@@ -168,6 +168,7 @@
 - ✨ [Audacity](https://www.audacityteam.org/) *(Windows, Mac, Linux)*
 - ⭐️ [Ocenaudio](https://www.ocenaudio.com/) *(Windows)*
 - ⭐️ (💵) [DaVinci Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
+- 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge/) *(Windows, Mac)*
 - ⭐️ [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
 
 #### DAWs
@@ -191,6 +192,7 @@
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
+- 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post/) *(Windows)*
 
 #### Motion graphics
 
