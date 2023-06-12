@@ -52,6 +52,7 @@
 
 #### Pixel art
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) *(Browser)*
+- ✨ [LibreSprite](https://libresprite.github.io/) *(Windows, Mac, Linux)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor/) *(Windows, Mac)*
 - ✨ (or 💵) [Aseprite](https://www.aseprite.org/) *(Windows, Mac, Linux)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
@@ -79,6 +80,7 @@
 - 💵 Cacani *(Windows)*
 - 💵 TVPaint *(Windows, Mac, Linux, Android)*
 - 💵 Toonboom *(Windows, Mac, Linux)*
+- ✨ [Tahoma2d](https://tahoma2d.org/) *(Windows, Mac, Linux)
 - 💵 Clip Studio EX *(Windows, Mac)*
 - 💵 Moho *(Windows, Mac)*
 - ✨ Blender *(Windows, Mac, Linux)*
