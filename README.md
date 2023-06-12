@@ -77,16 +77,16 @@
 ## Animate
 
 #### General
-- 💵 Cacani *(Windows)*
-- 💵 TVPaint *(Windows, Mac, Linux, Android)*
-- 💵 Toonboom *(Windows, Mac, Linux)*
-- ✨ [Tahoma2d](https://tahoma2d.org/) *(Windows, Mac, Linux)
-- 💵 Clip Studio EX *(Windows, Mac)*
-- 💵 Moho *(Windows, Mac)*
-- ✨ Blender *(Windows, Mac, Linux)*
-- ✨ Open Toonz *(Windows, Mac, Linux)*
-- ✨ Wick Editor *(Browser)*
-- ✨ Synfig *(Browser)*
+- 💵 [CACANi](https://cacani.sg/) *(Windows)*
+- 💵 [TVPaint](https://www.tvpaint.com/v2/wp/?page_id=1224&lang=en) *(Windows, Mac, Linux, Android)*
+- 💵 [Toon Boom](https://www.toonboom.com/) *(Windows, Mac, Linux)*
+- ✨ [Tahoma2D](https://tahoma2d.org/) *(Windows, Mac, Linux)
+- 💵 [Clip Studio Paint](https://www.clipstudio.net/en/) *(Windows, Mac)*
+- 💵 [Moho](https://moho.lostmarble.com/) *(Windows, Mac)*
+- ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
+- ✨ [OpenToonz](https://opentoonz.github.io/e/) *(Windows, Mac, Linux)*
+- ✨ [Wick Editor](https://www.wickeditor.com/#/) *(Browser)*
+- ✨ [Synfig](https://www.synfig.org/) *(Browser)*
 
 #### Honorable mentions
 - ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
@@ -112,15 +112,15 @@
 
 ## Lightroom
 
-- ✨ RawTherapee *(Windows, Mac, Linux)*
-- ✨ Darktable *(Windows, Mac, Linux)*
-- ✨ DigiKam *(Windows, Mac, Linux)*
-- 💵 On1 *(Windows, Mac, Linux)*
-- 💵 FastRawViewerv *(Windows, Mac)*
-- 💵 Capture One *(Windows, Mac)*
-- 💵 Dx0 PhotoLab *(Windows, Mac)*
-- 💵 Luminar *(Windows, Mac)*
-- 💵 Aurora *(Windows, Mac)*
+- ✨ [RawTherapee](https://www.rawtherapee.com/) *(Windows, Mac, Linux)*
+- ✨ [Darktable](https://www.darktable.org/) *(Windows, Mac, Linux)*
+- ✨ [digiKam](https://www.digikam.org/) *(Windows, Mac, Linux)*
+- 💵 [On1](https://www.on1.com/) *(Windows, Mac, Linux)*
+- 💵 [FastRawViewer](https://www.fastrawviewer.com/) *(Windows, Mac)*
+- 💵 [Capture One](https://www.captureone.com/en) *(Windows, Mac)*
+- 💵 [Dx0 PhotoLab](https://www.dxo.com/dxo-photolab/) *(Windows, Mac)*
+- 💵 [Luminar Neo](https://skylum.com/luminar) *(Windows, Mac)*
+- 💵 [Aurora HDR](https://skylum.com/aurora-photo-editor) *(Windows, Mac)*
 
 ## XD
 
