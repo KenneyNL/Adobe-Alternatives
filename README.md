@@ -10,7 +10,7 @@
 
 ## Photoshop
 
-### Photography
+#### Photography
 - ✨ [GIMP](https://www.gimp.org/) *(Windows, Mac, Linux)*
 - ⭐️ Sumo Paint *(Windows, Mac, Linux)*
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo/) *(Windows, Mac, iOS)*
@@ -21,7 +21,7 @@
 - ⭐️ PaintShop Pro *(Windows)*
 - ⭐️ Pxlr *(Windows, Mac, Linux)*
 
-### Painting
+#### Painting
 - ✨ Krita *(Windows, Mac, Linux, Android)*
 - 💵 Clip Studio Paint *(Windows, Mac, iOS, Android)*
 - 💵 Paint Tool SAI *(Windows, Mac)*
@@ -37,7 +37,7 @@
 
 ## Illustrator
 
-### General
+#### General
 - ✨ Inkscape *(Windows, Mac, Linux)*
 - ⭐️ Boxy SVG *(Windows, Mac, Linux)*
 - ⭐️ Gravit Designer *(Windows, Mac, Linux)*
@@ -46,5 +46,23 @@
 - 💵 Corel Draw *(Windows, Mac)*
 - 💵 Xara Designer *(Windows)*
 
-### Live trace
+#### Live trace
 - 💵 Vector Magic *(Windows, Mac, Linux)*
+
+## Animate
+
+#### General
+- 💵 Cacani *(Windows)*
+- 💵 TVPaint *(Windows, Mac, Linux, Android)*
+- 💵 Toonboom *(Windows, Mac, Linux)*
+- 💵 Clip Studio EX *(Windows, Mac)*
+- 💵 Moho *(Windows, Mac)*
+- ✨ Blender *(Windows, Mac, Linux)*
+- ✨ Open Toonz *(Windows, Mac, Linux)*
+- ✨ Wick Editor *(Browser)*
+- ✨ Synfig *(Browser)*
+
+#### Honorable mentions
+- ✨ Krita *(Windows, Mac, Linux, Android)*
+- ✨ Pencil 2D *(Windows, Mac, Linux)*
+- ✨ Firealpaca *(Windows, Mac)*
