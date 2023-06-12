@@ -22,24 +22,24 @@
 - ⭐️ [Pxlr](https://pixlr.com/) *(Browser)*
 
 #### Painting
-- ✨ Krita *(Windows, Mac, Linux, Android)*
-- 💵 Clip Studio Paint *(Windows, Mac, iOS, Android)*
-- 💵 Paint Tool SAI *(Windows, Mac)*
-- 💵 Procreate *(iOS)*
-- 💵 Artstudio Pro *(iOS)*
-- ⭐️ IbisPaint *(Android)*
-- ⭐️ AD Sketchbook *(iOS, Android)*
-- ✨ Firealpaca *(Windows, Mac)*
-- ⭐️ Medibang *(Windows, Mac, Android)*
-- 💵 Paintstorm *(Windows, Mac, iOS)*
-- ✨ MyPaint *(Windows, Mac, Linux)*
-- 💵 CorelPainter *(Windows, Mac)*
+- ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
+- 💵 [Clip Studio Paint](https://www.clipstudio.net/) *(Windows, Mac, iOS, Android)*
+- 💵 [PaintTool SAI](https://www.systemax.jp/en/sai/) *(Windows, Mac)*
+- 💵 [Procreate](https://procreate.com/) *(iOS)*
+- 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
+- ⭐️ [IbisPaint](https://ibispaint.com/?lang=en-US) *(Android)*
+- ⭐️ [Sketchbook](https://www.sketchbook.com/) *(iOS, Android)*
+- ✨ [FireAlpaca](https://firealpaca.com/) *(Windows, Mac)*
+- ⭐️ [Medibang](https://medibangpaint.com/en/) *(Windows, Mac, Android)*
+- 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, iOS)*
+- ✨ [MyPaint](https://mypaint.app/) *(Windows, Mac, Linux)*
+- 💵 [Corel Painter](https://www.painterartist.com/) *(Windows, Mac)*
 
 #### Pixel art
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) *(Browser)*
 - ✨ (or 💵) [Aseprite](https://www.aseprite.org/) *(Windows, Mac, Linux)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
-- ⭐️ MS Paint *(Windows)*
+- ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 
 ## Illustrator
 
@@ -71,7 +71,7 @@
 #### Honorable mentions
 - ✨ Krita *(Windows, Mac, Linux, Android)*
 - ✨ Pencil 2D *(Windows, Mac, Linux)*
-- ✨ Firealpaca *(Windows, Mac)*
+- ✨ [FireAlpaca](https://firealpaca.com/) *(Windows, Mac)*
 
 ## InDesign
 
