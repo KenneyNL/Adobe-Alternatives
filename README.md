@@ -124,14 +124,14 @@
 
 ## XD
 
-- ✨ Penpot *(Windows, Mac, Linux)*
-- ✨ Draftoola *(Linux)*
-- 🔒 Framer *(Windows, Mac, Linux)*
-- 💵 Sketch *(Mac)*
-- 💵 Lunacy *(Windows, Mac, Linux)*
-- 💵 Origami *(Mac)*
-- 💵 Axure RP *(Windows, Mac)*
-- 💵 Principle *(Mac)*
+- ✨ [Penpot](https://penpot.app/) *(Windows, Mac, Linux)*
+- ✨ [Draftoola](https://github.com/nitramr/Draftoola) *(Linux)*
+- 🔒 [Framer](https://www.framer.com/) *(Windows, Mac, Linux)*
+- 💵 [Sketch](https://www.sketch.com/) *(Mac)*
+- 💵 [Lunacy](https://icons8.com/lunacy) *(Windows, Mac, Linux)*
+- 💵 [Origami Studio](https://origami.design/) *(Mac)*
+- 💵 [Axure RP](https://www.axure.com/) *(Windows, Mac)*
+- 💵 [Principle](https://principleformac.com/) *(Mac)*
 
 ## Premiere
 
@@ -172,15 +172,15 @@
 #### DAWs
 
 - ⭐️ [Cakewalk](https://www.cakewalk.com/) *(Windows)*
-- ✨ Ardour *(Windows, Mac, Linux)*
-- ✨ LMMS *(Windows, Mac, Linux)*
-- 💵 Reaper *(Windows, Mac, Linux)*
-- ⭐️ (💵) Tracktion *(Windows, Mac, Linux)*
-- ⭐️ Garageband *(Mac)*
-- ⭐️ (💵) Pro Tools *(Windows, Mac)*
-- 💵 Logic Pro *(Mac, iOS)*
-- 💵 Live by Ableton *(Windows, Mac)*
-- 💵 FL Studio *(Windows, Mac, Android)*
+- ✨ [Ardour](https://ardour.org/) *(Windows, Mac, Linux)*
+- ✨ [LMMS](https://lmms.io/) *(Windows, Mac, Linux)*
+- 💵 [Reaper](https://www.reaper.fm/) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [Tracktion](https://www.tracktion.com/) *(Windows, Mac, Linux)*
+- ⭐️ [GarageBand](https://www.apple.com/mac/garageband/) *(Mac)*
+- ⭐️ (💵) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, Mac)*
+- 💵 [Logic Pro](https://www.apple.com/logic-pro/) *(Mac, iOS)*
+- 💵 [Live by Ableton](https://www.ableton.com/en/live/) *(Windows, Mac)*
+- 💵 [FL Studio](https://www.image-line.com/) *(Windows, Mac, Android)*
 
 ## After Effects
 
@@ -193,9 +193,9 @@
 
 #### Motion graphics
 
-- 🔒 Cavalry *(Windows, Mac)*
-- 🔒 Rive *(Windows, Mac, Linux)*
-- 🔒 Jitter *(Windows, Mac, Linux)*
-- ⭐️ Fable *(Windows, Mac, Linux)*
+- 🔒 [Cavalry](https://cavalry.scenegroup.co/) *(Windows, Mac)*
+- 🔒 [Rive](https://rive.app/) *(Browser)*
+- 🔒 [Jitter](https://jitter.video/) *(Browser)*
+- ⭐️ [Fable](https://www.fable.app/) *(Browser)*
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
-- ✨ Enve *(Windows, Mac, Linux)*
+- ✨ [Enve](https://maurycyliebner.github.io/) *(Windows, Mac, Linux)*
