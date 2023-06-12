@@ -125,6 +125,7 @@
 - 💵 Vegas Pro *(Windows)*
 - 💵 Final Cut Pro X *(Mac)*
 - 🔒 Kapwing *(Windows, Mac, Linux)*
+- 🔒 (💵) [CapCut](https://www.capcut.com/) *(Browser, Windows, iOS, Android)*
 
 ## Acrobat
 
@@ -148,13 +149,13 @@
 #### General
 
 - ✨ [Audacity](https://www.audacityteam.org/) *(Windows, Mac, Linux)*
-- ⭐️ Ocenaudio *(Windows)*
-- ⭐️ (💵) DaVinci Fairlight *(Windows, Mac, Linux)*
-- ⭐️ iZotope RX *(Windows, Mac)*
+- ⭐️ [Ocenaudio](https://www.ocenaudio.com/) *(Windows)*
+- ⭐️ (💵) [DaVinci Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
+- ⭐️ [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
 
 #### DAWs
 
-- ⭐️ Cakewalk *(Windows)*
+- ⭐️ [Cakewalk](https://www.cakewalk.com/) *(Windows)*
 - ✨ Ardour *(Windows, Mac, Linux)*
 - ✨ LMMS *(Windows, Mac, Linux)*
 - 💵 Reaper *(Windows, Mac, Linux)*
@@ -171,8 +172,8 @@
 
 - ✨ [Natron](https://natrongithub.github.io/) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
-- ⭐️ (💵) DaVinci Fusion *(Windows, Mac, Linux)*
-- ⭐️ (💵) HitFilm *(Windows, Mac, Linux)*
+- ⭐️ (💵) [DaVinci Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
 
 #### Motion graphics
 
