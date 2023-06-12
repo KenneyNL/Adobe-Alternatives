@@ -16,7 +16,7 @@
 - [Substance](https://github.com/KenneyNL/Adobe-Alternatives#substance)
 - [Lightroom](https://github.com/KenneyNL/Adobe-Alternatives#lightroom)
 - [XD](https://github.com/KenneyNL/Adobe-Alternatives#xd)
-- [Premiere](https://github.com/KenneyNL/Adobe-Alternatives#premier)
+- [Premiere](https://github.com/KenneyNL/Adobe-Alternatives#premiere)
 - [Acrobat](https://github.com/KenneyNL/Adobe-Alternatives#acrobat)
 - [Bridge](https://github.com/KenneyNL/Adobe-Alternatives#bridge)
 - [Dreamweaver](https://github.com/KenneyNL/Adobe-Alternatives#dreamweaver)
