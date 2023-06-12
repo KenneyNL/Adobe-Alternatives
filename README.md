@@ -37,6 +37,7 @@
 
 #### Pixel art
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) *(Browser)*
+- ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor/) *(Windows, Mac)*
 - ✨ (or 💵) [Aseprite](https://www.aseprite.org/) *(Windows, Mac, Linux)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
