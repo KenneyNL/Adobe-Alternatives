@@ -26,7 +26,7 @@
 ## Photoshop
 
 #### Photography
-- ✨ [GIMP](https://www.gimp.org/) *(Windows, Mac, Linux)*
+- ✨ [GIMP (GNU Image Maniuplation Program)](https://www.gimp.org/) *(Windows, Mac, Linux)*
 - ⭐️ [Sumo Paint](https://sumo.app/) *(Windows, Mac, Linux)*
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo/) *(Windows, Mac, iOS)*
 - 💵 [Photoline](https://www.pl32.com/) *(Windows, Mac)*
@@ -137,6 +137,17 @@
 
 - ✨ [Olive](https://olivevideoeditor.org/) *(Windows, Mac, Linux)*
 - ✨ [Kdenlive](https://kdenlive.org/en/) *(Windows, Mac, Linux)*
+- ✨ [OpenShot](https://www.openshot.org/) *(Windows, Mac, Linux)*
+- ✨ [ShotCut](https://www.shotcut.org/) *(Windows, Mac, Linux)*
+- ✨ [Blender](https://blender.org/) *(Windows, Mac, Linux)*
+- ✨ [Flowblade](https://jliljebl.github.io/flowblade/index.html) *(Linux)*
+- ✨ [AVIDemux](http://avidemux.sourceforge.net/) *(Windows, Mac, Linux)*
+- ✨ [VidCutter](https://github.com/ozmartian/vidcutter) *(Windows, Mac, Linux)*
+- ✨ [LiVES](http://lives-video.com/) *(Mac, Linux)*
+- ✨ [VirtualDub](https://www.virtualdub.org/) *(Windows)*
+- ✨ [Pitivi](https://www.pitivi.org/) *(Linux)*
+- ✨ (💵) [Lightworks](https://lwks.com/) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) *(Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro/) *(Mac, iOS)*
@@ -145,9 +156,24 @@
 
 ## Acrobat
 
+#### Viewers
+
+- ✨ [Evince](https://wiki.gnome.org/Apps/Evince) *(Windows, Linux)*
+- ✨ [Okular](https://okular.kde.org/) *(Windows, Linux)*
+- ✨ [XPDFReader](https://www.xpdfreader.com/index.html) *(Windows, Linux)*
+- ✨ [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf) *(Windows)*
+
+#### Editing and converting
+
+- ✨ [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) *(Windows, Mac, Linux)*
+- ✨ [Inkscape](https://inkscape.org/en/) *(Windows, Mac, Linux)*
+- ✨ [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) *(Windows, Mac, Linux)*
+- ✨ [Scribus](https://www.scribus.net/) *(Windows, Mac, Linux)*
+- ✨ [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) *(Windows, Mac, Linux)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor/) *(Windows)*
 - ⭐️ [Xodo](https://xodo.com/) *(Browser)*
 - ⭐️ [PDF24](https://www.pdf24.org/en/) *(Windows)*
+- ✨/💵 [PDFSam](https://pdfsam.org/) *(Windows, Mac, Linux)*
 
 ## Bridge
 
@@ -157,7 +183,15 @@
 ## Dreamweaver
 
 - ✨ [Netbeans](https://netbeans.apache.org/) *(Windows, Mac, Linux)*
+- ✨ [Eclipse](https://eclipse.org/) *(Windows, Mac, Linux)*
+- ✨ [Aptana Studio](http://www.aptana.com/) *(Windows, Mac, Linux)*
 - ✨ [VSCodium](https://vscodium.com/) *(Windows, Mac, Linux)*
+- ✨ [Pulsar](https://pulsar-edit.dev/) *(Windows, Mac, Linux)*
+- ✨ [Vim](https://www.vim.org/download.php) *(Windows, Mac, Linux)*
+- ✨ [NeoVim](https://neovim.io/) *(Windows, Mac, Linux)*
+- ✨ [Emacs](https://www.gnu.org/software/emacs/) *(Windows, Mac, Linux)*
+- ✨ [Notepad++](https://notepad-plus-plus.org/) *(Windows)*
+- ⭐️/💵 [Sublime Text](https://www.sublimetext.com/) *(Windows, Mac, Linux)*
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Blue Griffon](http://www.bluegriffon.org/) *(Windows, Mac, Linux)*
 
@@ -167,7 +201,7 @@
 
 - ✨ [Audacity](https://www.audacityteam.org/) *(Windows, Mac, Linux)*
 - ⭐️ [Ocenaudio](https://www.ocenaudio.com/) *(Windows)*
-- ⭐️ (💵) [DaVinci Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
 - 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge/) *(Windows, Mac)*
 - ⭐️ [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
 
@@ -186,11 +220,11 @@
 
 ## After Effects
 
-#### Compositing & FX
+#### Compositing and effects
 
 - ✨ [Natron](https://natrongithub.github.io/) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [DaVinci Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post/) *(Windows)*
 
