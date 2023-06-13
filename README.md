@@ -160,6 +160,7 @@
 - ✨ [VSCodium](https://vscodium.com/) *(Windows, Mac, Linux)*
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Blue Griffon](http://www.bluegriffon.org/) *(Windows, Mac, Linux)*
+- ⭐️[PageFabric](https://pagefabric-app.com/)*(Windows)*
 
 ## Audition
 
