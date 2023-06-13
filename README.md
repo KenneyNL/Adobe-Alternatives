@@ -44,7 +44,7 @@
 - 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
 - ⭐️ [IbisPaint](https://ibispaint.com/?lang=en-US) *(Android)*
 - ⭐️ [Sketchbook](https://www.sketchbook.com/) *(iOS, Android)*
-- ✨ [FireAlpaca](https://firealpaca.com/) *(Windows, Mac)*
+- ⭐️ [FireAlpaca](https://firealpaca.com/) *(Windows, Mac)*
 - ⭐️ [Medibang](https://medibangpaint.com/en/) *(Windows, Mac, Android)*
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, iOS)*
 - ✨ [MyPaint](https://mypaint.app/) *(Windows, Mac, Linux)*
@@ -93,7 +93,7 @@
 #### Honorable mentions
 - ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
 - ✨ [Pencil2D](https://www.pencil2d.org/) *(Windows, Mac, Linux)*
-- ✨ [FireAlpaca](https://firealpaca.com/) *(Windows, Mac)*
+- ⭐️ [FireAlpaca](https://firealpaca.com/) *(Windows, Mac)*
 
 ## InDesign
 
