@@ -165,6 +165,9 @@
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Blue Griffon](http://www.bluegriffon.org/) *(Windows, Mac, Linux)*
 - ⭐️ [PageFabric](https://pagefabric-app.com/) *(Windows)*
+- 💵 (🔒) [Nova](https://nova.app/) *(Mac)*
+- 🔒 [WebStorm](https://www.jetbrains.com/webstorm/) *(Windows, Mac, Linux)*
+- 🔒 [PHPStorm](https://www.jetbrains.com/phpstorm/) *(Windows, Mac, Linux)*
 
 ## Audition
 
