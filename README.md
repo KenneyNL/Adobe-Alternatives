@@ -88,6 +88,7 @@
 - ✨ [OpenToonz](https://opentoonz.github.io/e/) *(Windows, Mac, Linux)*
 - ✨ [Wick Editor](https://www.wickeditor.com/#/) *(Browser)*
 - ✨ [Synfig](https://www.synfig.org/) *(Browser)*
+- ✨ [Glaxnimate](https://glaxnimate.mattbas.org/) *(Windows, Mac, Linux)*
 
 #### Honorable mentions
 - ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
@@ -150,7 +151,7 @@
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor/) *(Windows)*
 - 🔒 [Xodo](https://xodo.com/) *(Browser)*
 - ⭐️ [PDF24](https://www.pdf24.org/en/) *(Windows)*
-- ✨[LibreOffice Draw](https://www.libreoffice.org/) *(Windows, Mac, Linux)*
+- ✨ [LibreOffice Draw](https://www.libreoffice.org/) *(Windows, Mac, Linux)*
 
 ## Bridge
 
@@ -163,7 +164,7 @@
 - ✨ [VSCodium](https://vscodium.com/) *(Windows, Mac, Linux)*
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Blue Griffon](http://www.bluegriffon.org/) *(Windows, Mac, Linux)*
-- ⭐️[PageFabric](https://pagefabric-app.com/)*(Windows)*
+- ⭐️ [PageFabric](https://pagefabric-app.com/) *(Windows)*
 
 ## Audition
 
@@ -206,4 +207,3 @@
 - ⭐️ [Fable](https://www.fable.app/) *(Browser)*
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
 - ✨ [Enve](https://maurycyliebner.github.io/) *(Windows, Mac, Linux)*
-- ✨ [Glaxnimate](https://glaxnimate.mattbas.org/) *(Windows, Mac, Linux)*
