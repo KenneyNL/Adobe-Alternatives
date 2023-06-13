@@ -203,3 +203,4 @@
 - ⭐️ [Fable](https://www.fable.app/) *(Browser)*
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
 - ✨ [Enve](https://maurycyliebner.github.io/) *(Windows, Mac, Linux)*
+- ✨ [Glaxnimate](https://glaxnimate.mattbas.org/) *(Windows, Mac, Linux)*
