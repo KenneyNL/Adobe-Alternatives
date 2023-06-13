@@ -197,7 +197,7 @@
 #### Motion graphics
 
 - 🔒 [Cavalry](https://cavalry.scenegroup.co/) *(Windows, Mac)*
-- 🔒 [Rive](https://rive.app/) *(Browser)*
+- 🔒 [Rive](https://rive.app/) *(Browser, Windows, Mac)*
 - 🔒 [Jitter](https://jitter.video/) *(Browser)*
 - ⭐️ [Fable](https://www.fable.app/) *(Browser)*
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
