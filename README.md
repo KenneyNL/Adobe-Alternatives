@@ -151,7 +151,7 @@
 - ✨ [LibreOffice Draw](https://www.libreoffice.org/) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org/en/) *(Windows)*
 - 🔶 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor/) *(Windows)*
-- 🔒 [Xodo](https://xodo.com/) *(Browser)*
+- 🔶 (🔒) [Xodo](https://xodo.com/) *(Browser)*
 
 ## Bridge
 
