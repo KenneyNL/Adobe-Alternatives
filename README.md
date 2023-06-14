@@ -6,7 +6,7 @@
 - ✨ = Free & open source
 - ⭐️ = Free of charge
 - 💵 = Single purchase
-- 🔒 = Subscription for more functions
+- 🔒 = Subscription
 
 **Alternatives to:**
 - [Photoshop](https://github.com/KenneyNL/Adobe-Alternatives#photoshop)
