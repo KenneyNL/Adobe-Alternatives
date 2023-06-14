@@ -181,7 +181,7 @@
 
 #### DAWs
 
-- ✨ [Ardour](https://ardour.org/) *(Windows, Mac, Linux)*
+- ✨ (🔒) [Ardour](https://ardour.org/) *(Windows, Mac, Linux)*
 - ✨ [LMMS](https://lmms.io/) *(Windows, Mac, Linux)*
 - ⭐️ [Cakewalk](https://www.cakewalk.com/) *(Windows)*
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband/) *(Mac)*
