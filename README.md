@@ -5,6 +5,7 @@
 **Legend:**
 - ✨ = Free & open source
 - ⭐️ = Free of charge
+- 🔶 = Free trial
 - 💵 = Single purchase
 - 🔒 = Subscription for more functions
 
