@@ -50,7 +50,7 @@
 - 💵 [PaintTool SAI](https://www.systemax.jp/en/sai/) *(Windows, Mac)*
 - 💵 [Procreate](https://procreate.com/) *(iOS)*
 - 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
-- 💵 [https://www.infinitestudio.art/](Infinite Studio) *(iOS, Android)*
+- 💵 [Infinite Studio](https://www.infinitestudio.art/) *(iOS, Android)*
 
 #### Pixel art
 - ✨ (or 💵) [Aseprite](https://www.aseprite.org/) *(Windows, Mac, Linux)*
