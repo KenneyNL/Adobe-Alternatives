@@ -174,7 +174,7 @@
 #### General
 
 - ✨ [Audacity](https://www.audacityteam.org/) *(Windows, Mac, Linux)*
-- ⭐️ [Ocenaudio](https://www.ocenaudio.com/) *(Windows)*
+- ⭐️ [Ocenaudio](https://www.ocenaudio.com/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
 - 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
 - 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge/) *(Windows, Mac)*
