@@ -148,6 +148,8 @@
 
 ## Acrobat
 
+- ✨ [zathura](https://pwmt.org/projects/zathura/) *(Linux)*
+- ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
 - ✨ [LibreOffice Draw](https://www.libreoffice.org/) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org/en/) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor/) *(Windows)*
