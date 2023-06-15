@@ -50,6 +50,7 @@
 - 💵 [PaintTool SAI](https://www.systemax.jp/en/sai/) *(Windows, Mac)*
 - 💵 [Procreate](https://procreate.com/) *(iOS)*
 - 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
+- 💵 [https://www.infinitestudio.art/](Infinite Studio) *(iOS, Android)*
 
 #### Pixel art
 - ✨ (or 💵) [Aseprite](https://www.aseprite.org/) *(Windows, Mac, Linux)*
@@ -60,6 +61,7 @@
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor/) *(Windows, Mac)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
+- ✨ [GrafX2](http://grafx2.chez.com/) *(Windows, Linux, Android)*
 
 ## Illustrator
 
@@ -148,10 +150,17 @@
 
 ## Acrobat
 
+#### Editor
+
 - ✨ [LibreOffice Draw](https://www.libreoffice.org/) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org/en/) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor/) *(Windows)*
 - 🔒 [Xodo](https://xodo.com/) *(Browser)*
+
+#### Reader
+
+- ✨ [Zathura](https://pwmt.org/projects/zathura/) *(Linux)*
+- ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
 
 ## Bridge
 
@@ -181,7 +190,7 @@
 
 #### DAWs
 
-- ✨ [Ardour](https://ardour.org/) *(Windows, Mac, Linux)*
+- ✨ (💵, 🔒) [Ardour](https://ardour.org/) *(Windows, Mac, Linux)*
 - ✨ [LMMS](https://lmms.io/) *(Windows, Mac, Linux)*
 - ⭐️ [Cakewalk](https://www.cakewalk.com/) *(Windows)*
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband/) *(Mac)*
@@ -210,3 +219,4 @@
 - 🔒 [Cavalry](https://cavalry.scenegroup.co/) *(Windows, Mac)*
 - 🔒 [Rive](https://rive.app/) *(Browser, Windows, Mac)*
 - 🔒 [Jitter](https://jitter.video/) *(Browser)*
+- 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion/) *(Mac, iOS)*
