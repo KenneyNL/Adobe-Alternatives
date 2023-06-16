@@ -75,6 +75,9 @@
 - 🔒 [Corel Vector](https://app.corelvector.com/) *(Browser)*
 
 #### Live trace
+- ✨ [SVGcode](https://svgco.de/) *(Browser)*
+- ✨ [VTracer](https://www.visioncortex.org/vtracer/) *(Windows, Mac, Linux, Browser)*
+- ✨ [CR8tracer](http://cr8.netfirms.com/tracer.html) *(Windows)*
 - 💵 [Vector Magic](https://vectormagic.com/) *(Windows, Mac, Linux)*
 
 ## Animate
