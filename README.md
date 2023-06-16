@@ -147,6 +147,8 @@
 
 - ✨ [Olive](https://olivevideoeditor.org/) *(Windows, Mac, Linux)*
 - ✨ [Kdenlive](https://kdenlive.org/en/) *(Windows, Mac, Linux)*
+- ✨ [OpenShot](https://www.openshot.org/) *(Windows, Mac, Linux)*
+- ✨ [Shotcut](https://www.shotcut.org/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) *(Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro/) *(Mac, iOS)*
@@ -220,6 +222,7 @@
 
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
 - ✨ [Enve](https://maurycyliebner.github.io/) *(Windows, Mac, Linux)*
+- ✨ [AstroFox](https://astrofox.io/) *(Windows, Mac, Linux)*
 - ⭐️ [Fable](https://www.fable.app/) *(Browser)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion/) *(Mac, iOS)*
 - 🔒 [Cavalry](https://cavalry.scenegroup.co/) *(Windows, Mac)*
