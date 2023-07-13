@@ -57,11 +57,12 @@
 - ✨ [Pixelorama](https://orama-interactive.itch.io/pixelorama) *(Browser, Windows, Mac, Linux, Raspberry Pi)*
 - ✨ [PixiEditor](https://pixieditor.net/) *(Windows)*
 - ✨ [LibreSprite](https://libresprite.github.io/) *(Windows, Mac, Linux)*
+- ✨ [GrafX2](http://grafx2.chez.com/) *(Windows, Linux, Android)*
+- ✨ [Pixilart](https://www.pixilart.com/draw) *(Browser, Android, iPhone, iPad)*
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) *(Browser)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor/) *(Windows, Mac)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
-- ✨ [GrafX2](http://grafx2.chez.com/) *(Windows, Linux, Android)*
 
 ## Illustrator
 
@@ -75,6 +76,9 @@
 - 🔒 [Corel Vector](https://app.corelvector.com/) *(Browser)*
 
 #### Live trace
+- ✨ [SVGcode](https://svgco.de/) *(Browser)*
+- ✨ [VTracer](https://www.visioncortex.org/vtracer/) *(Windows, Mac, Linux, Browser)*
+- ✨ [CR8tracer](http://cr8.netfirms.com/tracer.html) *(Windows)*
 - 💵 [Vector Magic](https://vectormagic.com/) *(Windows, Mac, Linux)*
 
 ## Animate
@@ -100,6 +104,7 @@
 ## InDesign
 
 - ✨ [Scribus](https://www.scribus.net/) *(Windows, Mac, Linux)*
+- ✨ [Laidout](https://laidout.org/) *(Linux)*
 - 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/) *(Windows, Mac)*
 - 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, Mac)*
 
@@ -142,6 +147,8 @@
 
 - ✨ [Olive](https://olivevideoeditor.org/) *(Windows, Mac, Linux)*
 - ✨ [Kdenlive](https://kdenlive.org/en/) *(Windows, Mac, Linux)*
+- ✨ [OpenShot](https://www.openshot.org/) *(Windows, Mac, Linux)*
+- ✨ [Shotcut](https://www.shotcut.org/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) *(Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro/) *(Mac, iOS)*
@@ -216,8 +223,10 @@
 
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
 - ✨ [Enve](https://maurycyliebner.github.io/) *(Windows, Mac, Linux)*
+- ✨ [AstroFox](https://astrofox.io/) *(Windows, Mac, Linux)*
 - ⭐️ [Fable](https://www.fable.app/) *(Browser)*
+- 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion/) *(Mac, iOS)*
 - 🔒 [Cavalry](https://cavalry.scenegroup.co/) *(Windows, Mac)*
 - 🔒 [Rive](https://rive.app/) *(Browser, Windows, Mac)*
 - 🔒 [Jitter](https://jitter.video/) *(Browser)*
-- 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion/) *(Mac, iOS)*
+
