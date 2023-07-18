@@ -208,7 +208,8 @@
 - 💵 [Reaper](https://www.reaper.fm/) *(Windows, Mac, Linux)*
 - 💵 [Logic Pro](https://www.apple.com/logic-pro/) *(Mac, iOS)*
 - 💵 [Ableton Live](https://www.ableton.com/en/live/) *(Windows, Mac)*
-- 💵 [FL Studio](https://www.image-line.com/) *(Windows, Mac, Android)*
+- 💵 [FL Studio](https://www.image-line.com/fl-studio/) *(Windows, Mac)*
+- 💵 [FL Studio Mobile](https://www.image-line.com/fl-studio-mobile/) *(Android, Chrome OS, iOS, Mac, Windows)*
 - 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(Windows, Mac)*
 - 💵 [Cubase](https://www.steinberg.net/cubase/) *(Windows, Mac)*
 
