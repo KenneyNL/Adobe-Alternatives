@@ -35,6 +35,7 @@
 - 💵 [PaintShop Pro](https://www.paintshoppro.com/) *(Windows)*
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo/) *(Windows, Mac, iOS)*
 - 💵 [Photoline](https://www.pl32.com/) *(Windows, Mac)*
+- ✨️ [Pinta](https://www.pinta-project.com) *(Windows, Mac, Linux)*
 
 #### Painting
 - ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
