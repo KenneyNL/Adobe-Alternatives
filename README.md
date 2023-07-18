@@ -195,6 +195,7 @@
 - ⭐️ (💵) [DaVinci Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
 - 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
 - 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge/) *(Windows, Mac)*
+- 💵 [WaveLab](https://www.steinberg.net/wavelab/) *(Windows, Mac)*
 
 #### DAWs
 
