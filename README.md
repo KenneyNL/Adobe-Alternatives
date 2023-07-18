@@ -209,6 +209,7 @@
 - 💵 [Ableton Live](https://www.ableton.com/en/live/) *(Windows, Mac)*
 - 💵 [FL Studio](https://www.image-line.com/) *(Windows, Mac, Android)*
 - 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(Windows, Mac)*
+- 💵 [Cubase](https://www.steinberg.net/cubase/) *(Windows, Mac)*
 
 ## After Effects
 
