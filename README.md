@@ -30,7 +30,7 @@
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app/) *(Windows, Mac, Linux)*
 - ⭐️ [Photopea](https://www.photopea.com/) *(Browser)*
 - ⭐️ [Paint.NET](https://www.getpaint.net/) *(Windows)*
-- ⭐️ [Pxlr](https://pixlr.com/) *(Browser)*
+- ⭐️ [Pixlr](https://pixlr.com/) *(Browser)*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro/) *(Mac)*
 - 💵 [PaintShop Pro](https://www.paintshoppro.com/) *(Windows)*
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo/) *(Windows, Mac, iOS)*
@@ -40,7 +40,7 @@
 #### Painting
 - ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
 - ✨ [MyPaint](https://mypaint.app/) *(Windows, Mac, Linux)*
-- ⭐️ [IbisPaint](https://ibispaint.com/?lang=en-US) *(Android)*
+- ⭐️ [IbisPaint](https://ibispaint.com/?lang=en-US) *(Windows, iOS, Android)*
 - ⭐️ [Sketchbook](https://www.sketchbook.com/) *(iOS, Android)*
 - ⭐️ [FireAlpaca](https://firealpaca.com/) *(Windows, Mac)*
 - ⭐️ [Medibang](https://medibangpaint.com/en/) *(Windows, Mac, Android)*
@@ -48,7 +48,7 @@
 - 💵 [Corel Painter](https://www.painterartist.com/) *(Windows, Mac)*
 - 💵 [Rebelle](https://www.escapemotions.com/products/rebelle/) *(Windows, Mac)*
 - 💵 [Clip Studio Paint](https://www.clipstudio.net/) *(Windows, Mac, iOS, Android)*
-- 💵 [PaintTool SAI](https://www.systemax.jp/en/sai/) *(Windows, Mac)*
+- 💵 [PaintTool SAI](https://www.systemax.jp/en/sai/) *(Windows)*
 - 💵 [Procreate](https://procreate.com/) *(iOS)*
 - 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
 - 💵 [Infinite Studio](https://www.infinitestudio.art/) *(iOS, Android)*
@@ -63,6 +63,7 @@
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) *(Browser)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor/) *(Windows, Mac)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
+- 💵 [Pro Motion NG](https://www.cosmigo.com/) *(Windows, Mac, Linux)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
 
 ## Illustrator
