@@ -208,6 +208,7 @@
 - 💵 [Logic Pro](https://www.apple.com/logic-pro/) *(Mac, iOS)*
 - 💵 [Ableton Live](https://www.ableton.com/en/live/) *(Windows, Mac)*
 - 💵 [FL Studio](https://www.image-line.com/) *(Windows, Mac, Android)*
+- 💵 [Cubase](https://www.steinberg.net/cubase/) *(Windows, Mac)*
 - 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(Windows, Mac)*
 
 ## After Effects
