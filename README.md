@@ -225,7 +225,7 @@
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
 - ✨ [Enve](https://maurycyliebner.github.io/) *(Windows, Mac, Linux)*
 - ✨ [AstroFox](https://astrofox.io/) *(Windows, Mac, Linux)*
-- ⭐️ [Fable](https://www.fable.app/) *(Browser)*
+- ⭐️ (🔒) [Fable](https://www.fable.app/) *(Browser)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion/) *(Mac, iOS)*
 - 🔒 [Cavalry](https://cavalry.scenegroup.co/) *(Windows, Mac)*
 - 🔒 [Rive](https://rive.app/) *(Browser, Windows, Mac)*
