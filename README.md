@@ -26,7 +26,6 @@
 ## Photoshop
 
 #### Photography
-- ✨ [GIMP](https://www.gimp.org/) *(Windows, Mac, Linux)*
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app/) *(Windows, Mac, Linux)*
 - ⭐️ [Photopea](https://www.photopea.com/) *(Browser)*
 - ⭐️ [Paint.NET](https://www.getpaint.net/) *(Windows)*
