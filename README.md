@@ -153,6 +153,7 @@
 - ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) *(Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro/) *(Mac, iOS)*
+- 🔒 [AVID Media Composer](https://www.avid.com/media-composer) *(Windows, Mac)*
 - 🔒 [Kapwing](https://www.kapwing.com/) *(Browser)*
 - 🔒 [CapCut](https://www.capcut.com/) *(Browser, Windows, iOS, Android)*
 
@@ -203,7 +204,7 @@
 - ⭐️ [Cakewalk](https://www.cakewalk.com/) *(Windows)*
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband/) *(Mac)*
 - ⭐️ (💵) [Tracktion](https://www.tracktion.com/) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, Mac)*
+- ⭐️ (🔒) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, Mac)*
 - 💵 [Reaper](https://www.reaper.fm/) *(Windows, Mac, Linux)*
 - 💵 [Logic Pro](https://www.apple.com/logic-pro/) *(Mac, iOS)*
 - 💵 [Ableton Live](https://www.ableton.com/en/live/) *(Windows, Mac)*
@@ -219,6 +220,8 @@
 - ⭐️ (💵) [DaVinci Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post/) *(Windows)*
+- 🔒 [Autodesk Flame](https://www.autodesk.co.uk/products/flame/overview?term=1-YEAR&tab=subscription) *(Windows, Mac)*
+- 🔒 [Autodesk Maya](https://www.autodesk.co.uk/products/maya/overview?term=1-YEAR&tab=subscription) *(Windows, Mac)*
 
 #### Motion graphics
 
