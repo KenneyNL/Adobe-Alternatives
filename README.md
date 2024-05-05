@@ -200,7 +200,7 @@
 
 - ✨ (💵, 🔒) [Ardour](https://ardour.org/) *(Windows, Mac, Linux)*
 - ✨ [LMMS](https://lmms.io/) *(Windows, Mac, Linux)*
-- ⭐️ [Cakewalk](https://www.cakewalk.com/) *(Windows)*
+- ⭐️ [Cakewalk](https://www.bandlab.com/products/cakewalk) *(Windows)*
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband/) *(Mac)*
 - ⭐️ (💵) [Tracktion](https://www.tracktion.com/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, Mac)*
