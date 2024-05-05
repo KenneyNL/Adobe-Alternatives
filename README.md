@@ -210,7 +210,7 @@
 - 💵 [FL Studio](https://www.image-line.com/) *(Windows, Mac, Android)*
 - 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(Windows, Mac)*
 - 🔒 [Cakewalk Next](https://www.cakewalk.com) *(Windows)*
-- 🔒 [Cakewalk Sonar](https://www.bandlab.com) *(Windows)*
+- 🔒 [Cakewalk Sonar](https://www.cakewalk.com) *(Windows)*
 
 ## After Effects
 
