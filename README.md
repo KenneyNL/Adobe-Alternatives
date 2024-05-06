@@ -126,6 +126,7 @@
 - ✨ [RawTherapee](https://www.rawtherapee.com/) *(Windows, Mac, Linux)*
 - ✨ [Darktable](https://www.darktable.org/) *(Windows, Mac, Linux)*
 - ✨ [digiKam](https://www.digikam.org/) *(Windows, Mac, Linux)*
+- ⭐️ (💵, 🔒) [Darkroom](https://darkroom.co/) *(Mac, iOS)*
 - 💵 [On1](https://www.on1.com/) *(Windows, Mac, Linux)*
 - 💵 [FastRawViewer](https://www.fastrawviewer.com/) *(Windows, Mac)*
 - 💵 [Capture One](https://www.captureone.com/en) *(Windows, Mac)*
