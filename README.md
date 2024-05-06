@@ -46,11 +46,13 @@
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, iOS)*
 - 💵 [Corel Painter](https://www.painterartist.com/) *(Windows, Mac)*
 - 💵 [Rebelle](https://www.escapemotions.com/products/rebelle/) *(Windows, Mac)*
-- 💵 [Clip Studio Paint](https://www.clipstudio.net/) *(Windows, Mac, iOS, Android)*
+- 💵 (🔒) [Clip Studio Paint](https://www.clipstudio.net/) *(Windows, Mac, iOS, Android)*
 - 💵 [PaintTool SAI](https://www.systemax.jp/en/sai/) *(Windows)*
 - 💵 [Procreate](https://procreate.com/) *(iOS)*
 - 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
 - 💵 [Infinite Studio](https://www.infinitestudio.art/) *(iOS, Android)*
+- 💵 [Realistic Paint Studio](https://realisticpaint.com/) *(Windows, Mac, iOS)*
+- 💵 [ArtRage](https://www.artrage.com/artrage/) *(Windows, Mac, iOS, Android)*
 
 #### Pixel art
 - ✨ (or 💵) [Aseprite](https://www.aseprite.org/) *(Windows, Mac, Linux)*
