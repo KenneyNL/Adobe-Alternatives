@@ -143,6 +143,7 @@
 - 💵 [Axure RP](https://www.axure.com/) *(Windows, Mac)*
 - 💵 [Principle](https://principleformac.com/) *(Mac)*
 - 🔒 [Framer](https://www.framer.com/) *(Windows, Mac, Linux)*
+- 🔒 [Figma](https://www.figma.com/) *(Windows, Mac, Browser)*
 
 ## Premiere
 
