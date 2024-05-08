@@ -145,7 +145,6 @@
 - 💵 [Principle](https://principleformac.com/) *(Mac)*
 - 🔒 [Framer](https://www.framer.com/) *(Windows, Mac, Linux)*
 
-
 ## Premiere
 
 - ✨ [Olive](https://olivevideoeditor.org/) *(Windows, Mac, Linux)*
