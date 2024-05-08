@@ -137,13 +137,14 @@
 
 - ✨ [Penpot](https://penpot.app/) *(Windows, Mac, Linux)*
 - ✨ [Draftoola](https://github.com/nitramr/Draftoola) *(Linux)*
+- ⭐️ (🔒) [Figma](https://www.figma.com/) *(Windows, Mac, Browser)*
 - 💵 [Sketch](https://www.sketch.com/) *(Mac)*
 - 💵 [Lunacy](https://icons8.com/lunacy) *(Windows, Mac, Linux)*
 - 💵 [Origami Studio](https://origami.design/) *(Mac)*
 - 💵 [Axure RP](https://www.axure.com/) *(Windows, Mac)*
 - 💵 [Principle](https://principleformac.com/) *(Mac)*
 - 🔒 [Framer](https://www.framer.com/) *(Windows, Mac, Linux)*
-- 🔒 [Figma](https://www.figma.com/) *(Windows, Mac, Browser)*
+
 
 ## Premiere
 
