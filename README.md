@@ -69,6 +69,7 @@
 
 #### General
 - ✨ [Inkscape](https://inkscape.org/) *(Windows, Mac, Linux)*
+- ⭐️ [Moving Pencils](https://movingpencils.com/) *(Browser)*
 - ⭐️ [Boxy SVG](https://boxy-svg.com/) *(Browser)*
 - 💵 [Corel Draw](https://www.coreldraw.com/) *(Windows, Mac)*
 - 💵 [Affinity Designer](https://affinity.serif.com/en-us/) *(Windows, Mac, iOS)*
