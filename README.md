@@ -35,6 +35,7 @@
 - 💵 [PaintShop Pro](https://www.paintshoppro.com/) *(Windows)*
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo/) *(Windows, Mac, iOS)*
 - 💵 [Photoline](https://www.pl32.com/) *(Windows, Mac)*
+- ✨️ [Pinta](https://www.pinta-project.com) *(Windows, Mac, Linux)*
 
 #### Painting
 - ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
@@ -195,6 +196,7 @@
 - ⭐️ (💵) [DaVinci Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
 - 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
 - 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge/) *(Windows, Mac)*
+- 💵 [WaveLab](https://www.steinberg.net/wavelab/) *(Windows, Mac)*
 
 #### DAWs
 
@@ -207,8 +209,10 @@
 - 💵 [Reaper](https://www.reaper.fm/) *(Windows, Mac, Linux)*
 - 💵 [Logic Pro](https://www.apple.com/logic-pro/) *(Mac, iOS)*
 - 💵 [Ableton Live](https://www.ableton.com/en/live/) *(Windows, Mac)*
-- 💵 [FL Studio](https://www.image-line.com/) *(Windows, Mac, Android)*
+- 💵 [FL Studio](https://www.image-line.com/fl-studio/) *(Windows, Mac)*
+- 💵 [FL Studio Mobile](https://www.image-line.com/fl-studio-mobile/) *(Android, Chrome OS, iOS, Mac, Windows)*
 - 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(Windows, Mac)*
+- 💵 [Cubase](https://www.steinberg.net/cubase/) *(Windows, Mac)*
 
 ## After Effects
 
