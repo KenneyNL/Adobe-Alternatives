@@ -1,4 +1,4 @@
-# Adobe Alternatives
+#/\ Adobe Alternatives
 
 > A list of alternatives for Adobe software, originally collected by [@XdanielArt](https://twitter.com/XdanielArt) and improved upon by the community. Feel free to open issues or pull requests, or create an image (for easy sharing) out of the data. The lists are always ordered with the free & open source option on top, but it might not be the best alternative depending on your use case.
 
@@ -223,7 +223,7 @@
 #### Motion graphics
 
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
-- ✨ [Enve](https://maurycyliebner.github.io/) *(Windows, Mac, Linux)*
+- ✨ [Fricion](https://friction.graphics/) *(Windows,Linux)*
 - ✨ [AstroFox](https://astrofox.io/) *(Windows, Mac, Linux)*
 - ⭐️ [Fable](https://www.fable.app/) *(Browser)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion/) *(Mac, iOS)*
