@@ -35,6 +35,7 @@
 - 💵 [PaintShop Pro](https://www.paintshoppro.com/) *(Windows)*
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo/) *(Windows, Mac, iOS)*
 - 💵 [Photoline](https://www.pl32.com/) *(Windows, Mac)*
+- 💵 [Acorn](https://flyingmeat.com/acorn/) *(Mac)*
 
 #### Painting
 - ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
@@ -46,11 +47,13 @@
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, iOS)*
 - 💵 [Corel Painter](https://www.painterartist.com/) *(Windows, Mac)*
 - 💵 [Rebelle](https://www.escapemotions.com/products/rebelle/) *(Windows, Mac)*
-- 💵 [Clip Studio Paint](https://www.clipstudio.net/) *(Windows, Mac, iOS, Android)*
+- 💵 (🔒) [Clip Studio Paint](https://www.clipstudio.net/)  *(Windows, Mac, iOS, Android)*
 - 💵 [PaintTool SAI](https://www.systemax.jp/en/sai/) *(Windows)*
 - 💵 [Procreate](https://procreate.com/) *(iOS)*
 - 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
 - 💵 [Infinite Studio](https://www.infinitestudio.art/) *(iOS, Android)*
+- 💵 [Realistic Paint Studio](https://realisticpaint.com/) *(Windows, Mac, iOS)*
+- 💵 [ArtRage](https://www.artrage.com/artrage/) *(Windows, Mac, iOS, Android)*
 
 #### Pixel art
 - ✨ (or 💵) [Aseprite](https://www.aseprite.org/) *(Windows, Mac, Linux)*
@@ -62,6 +65,7 @@
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) *(Browser)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor/) *(Windows, Mac)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
+- ⭐️ [GraphicsGale](https://graphicsgale.com/us)  *(Windows)*
 - 💵 [Pro Motion NG](https://www.cosmigo.com/) *(Windows, Mac, Linux)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
 
@@ -113,11 +117,12 @@
 
 #### Designer
 - ✨ [Material Maker](https://www.materialmaker.org/) *(Windows, Mac, Linux)*
-- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac, Linux)*
+- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
+- ⭐️ [InstaMAT](https://instamaterial.com/) *(Windows, Mac)*
 
 #### Painter
 - ✨ [ArmorPaint](https://armorpaint.org/) *(Windows, Linux)*
-- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac, Linux)*
+- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
 - 💵 [3DCoat](https://3dcoat.com/) *(Windows, Mac, Linux)*
 - 💵 (or 🔒) [Marmoset Toolbag](https://marmoset.co/toolbag/) *(Windows, Mac)*
 
@@ -137,8 +142,9 @@
 
 - ✨ [Penpot](https://penpot.app/) *(Windows, Mac, Linux)*
 - ✨ [Draftoola](https://github.com/nitramr/Draftoola) *(Linux)*
+- ⭐️ [Lunacy](https://icons8.com/lunacy) *(Windows, Mac, Linux)*
+- ⭐️ (🔒) [Figma](https://www.figma.com/)  *(Windows, Mac, Browser)*
 - 💵 [Sketch](https://www.sketch.com/) *(Mac)*
-- 💵 [Lunacy](https://icons8.com/lunacy) *(Windows, Mac, Linux)*
 - 💵 [Origami Studio](https://origami.design/) *(Mac)*
 - 💵 [Axure RP](https://www.axure.com/) *(Windows, Mac)*
 - 💵 [Principle](https://principleformac.com/) *(Mac)*
@@ -151,7 +157,7 @@
 - ✨ [OpenShot](https://www.openshot.org/) *(Windows, Mac, Linux)*
 - ✨ [Shotcut](https://www.shotcut.org/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
-- 💵 [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) *(Windows)*
+- 💵 (or 🔒) [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)  *(Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro/) *(Mac, iOS)*
 - 🔒 [Kapwing](https://www.kapwing.com/) *(Browser)*
 - 🔒 [CapCut](https://www.capcut.com/) *(Browser, Windows, iOS, Android)*
@@ -180,7 +186,6 @@
 - ✨ [Netbeans](https://netbeans.apache.org/) *(Windows, Mac, Linux)*
 - ✨ [VSCodium](https://vscodium.com/) *(Windows, Mac, Linux)*
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com/) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [Blue Griffon](http://www.bluegriffon.org/) *(Windows, Mac, Linux)*
 - ⭐️ [PageFabric](https://pagefabric-app.com/) *(Windows)*
 - 💵 (🔒) [Nova](https://nova.app/) *(Mac)*
 - 🔒 [WebStorm](https://www.jetbrains.com/webstorm/) *(Windows, Mac, Linux)*
@@ -200,7 +205,7 @@
 
 - ✨ (💵, 🔒) [Ardour](https://ardour.org/) *(Windows, Mac, Linux)*
 - ✨ [LMMS](https://lmms.io/) *(Windows, Mac, Linux)*
-- ⭐️ [Cakewalk](https://www.cakewalk.com/) *(Windows)*
+- ⭐️ [Cakewalk](https://www.bandlab.com/products/cakewalk)  *(Windows)*
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband/) *(Mac)*
 - ⭐️ (💵) [Tracktion](https://www.tracktion.com/) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, Mac)*
@@ -208,7 +213,12 @@
 - 💵 [Logic Pro](https://www.apple.com/logic-pro/) *(Mac, iOS)*
 - 💵 [Ableton Live](https://www.ableton.com/en/live/) *(Windows, Mac)*
 - 💵 [FL Studio](https://www.image-line.com/) *(Windows, Mac, Android)*
+- 💵 [Steinberg Wavelab](https://www.steinberg.net/wavelab/) *(Windows, Mac)*
+- 💵 [Steinberg Cubase](https://www.steinberg.net/cubase/) *(Windows, Mac)*
+- 💵 [Steinberg Nuendo](https://www.steinberg.net/nuendo/) *(Windows, Mac)*
 - 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(Windows, Mac)*
+- 🔒 [Cakewalk Next](https://www.cakewalk.com) *(Windows)*
+- 🔒 [Cakewalk Sonar](https://www.bandlab.com) *(Windows)*
 
 ## After Effects
 
@@ -219,15 +229,15 @@
 - ⭐️ (💵) [DaVinci Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post/) *(Windows)*
+- ⭐️ [Unreal Engine](https://www.unrealengine.com/en-US) (Motion Graphics Tools) *(Windows, Mac, Linux)*
 
 #### Motion graphics
 
 - ✨ [Blender](https://www.blender.org/) *(Windows, Mac, Linux)*
-- ✨ [Enve](https://maurycyliebner.github.io/) *(Windows, Mac, Linux)*
+- ✨ [Friction](https://friction.graphics/)  *(Windows,Linux)*
 - ✨ [AstroFox](https://astrofox.io/) *(Windows, Mac, Linux)*
-- ⭐️ [Fable](https://www.fable.app/) *(Browser)*
+- ⭐️ (🔒) [Fable](https://www.fable.app/)  *(Browser)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion/) *(Mac, iOS)*
 - 🔒 [Cavalry](https://cavalry.scenegroup.co/) *(Windows, Mac)*
 - 🔒 [Rive](https://rive.app/) *(Browser, Windows, Mac)*
 - 🔒 [Jitter](https://jitter.video/) *(Browser)*
-
