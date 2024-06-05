@@ -68,6 +68,7 @@
 - ⭐️ [GraphicsGale](https://graphicsgale.com/us)  *(Windows)*
 - 💵 [Pro Motion NG](https://www.cosmigo.com/) *(Windows, Mac, Linux)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
+- 💵 [Pixquare](https://www.pixquare.art/) *(iOS, Mac)*
 
 ## Illustrator
 
