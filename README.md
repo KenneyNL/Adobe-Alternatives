@@ -169,6 +169,7 @@
 - ✨ [LibreOffice Draw](https://www.libreoffice.org/) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org/en/) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor/) *(Windows)*
+- 💵 (🔒 for AI function) [UPDF](https://updf.com) *(Windows, Mac, iOS, Android)*
 - 🔒 [Xodo](https://xodo.com/) *(Browser)*
 
 #### Reader
