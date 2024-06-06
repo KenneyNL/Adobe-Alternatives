@@ -167,6 +167,7 @@
 #### Editor
 
 - ✨ [LibreOffice Draw](https://www.libreoffice.org/) *(Windows, Mac, Linux)*
+- ⭐️ [PDFgear](https://pdfgear.com) *(Browser, Windows, Mac, iOS)*
 - ⭐️ [PDF24](https://www.pdf24.org/en/) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor/) *(Windows)*
 - 🔒 [Xodo](https://xodo.com/) *(Browser)*
