@@ -69,6 +69,7 @@
 - 💵 [Pro Motion NG](https://www.cosmigo.com/) *(Windows, Mac, Linux)*
 - 💵 [Lightcube](https://www.lightcube.art/) *(Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
+- 💵 [Pixquare](https://www.pixquare.art/) *(iOS, Mac)*
 
 ## Illustrator
 
