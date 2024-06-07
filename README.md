@@ -175,6 +175,7 @@
 #### Reader
 
 - ✨ [Zathura](https://pwmt.org/projects/zathura/) *(Linux)*
+- ✨ [Sioyek](https://sioyek.info) *(Windows, Mac, Linux)*
 - ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
 
 ## Bridge
