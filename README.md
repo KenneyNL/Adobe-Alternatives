@@ -135,6 +135,7 @@
 - ✨ [RawTherapee](https://www.rawtherapee.com/) *(Windows, Mac, Linux)*
 - ✨ [Darktable](https://www.darktable.org/) *(Windows, Mac, Linux)*
 - ✨ [digiKam](https://www.digikam.org/) *(Windows, Mac, Linux)*
+- 💵 (or 🔒) [Darkroom](https://darkroom.co/) *(Mac, iOS)*
 - 💵 [On1](https://www.on1.com/) *(Windows, Mac, Linux)*
 - 💵 [FastRawViewer](https://www.fastrawviewer.com/) *(Windows, Mac)*
 - 💵 [Capture One](https://www.captureone.com/en) *(Windows, Mac)*
@@ -219,6 +220,7 @@
 - 💵 [Logic Pro](https://www.apple.com/logic-pro/) *(Mac, iOS)*
 - 💵 [Ableton Live](https://www.ableton.com/en/live/) *(Windows, Mac)*
 - 💵 [FL Studio](https://www.image-line.com/) *(Windows, Mac, Android)*
+- 💵 [Bitwig](https://www.bitwig.com/) *(Windows, Mac, Linux)*
 - 💵 [Steinberg Wavelab](https://www.steinberg.net/wavelab/) *(Windows, Mac)*
 - 💵 [Steinberg Cubase](https://www.steinberg.net/cubase/) *(Windows, Mac)*
 - 💵 [Steinberg Nuendo](https://www.steinberg.net/nuendo/) *(Windows, Mac)*
