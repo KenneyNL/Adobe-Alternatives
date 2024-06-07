@@ -101,6 +101,7 @@
 - 💵 [Toon Boom](https://www.toonboom.com/) *(Windows, Mac, Linux)*
 - 💵 [Clip Studio Paint](https://www.clipstudio.net/en/) *(Windows, Mac)*
 - 💵 [Moho](https://moho.lostmarble.com/) *(Windows, Mac)*
+- 💵 [Tumult Hype](https://tumult.com/hype/) *(Mac)*
 
 #### Honorable mentions
 - ✨ [Krita](https://krita.org/en/) *(Windows, Mac, Linux, Android)*
