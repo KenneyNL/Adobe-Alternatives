@@ -67,6 +67,7 @@
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 - ⭐️ [GraphicsGale](https://graphicsgale.com/us)  *(Windows)*
 - 💵 [Pro Motion NG](https://www.cosmigo.com/) *(Windows, Mac, Linux)*
+- 💵 [Lightcube](https://www.lightcube.art/) *(Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
 
 ## Illustrator
