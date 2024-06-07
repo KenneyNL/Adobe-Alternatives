@@ -74,9 +74,9 @@
 #### General
 - ✨ [Inkscape](https://inkscape.org/) *(Windows, Mac, Linux)*
 - ⭐️ [Boxy SVG](https://boxy-svg.com/) *(Browser)*
+- ⭐️ (🔒) [Linearity Curve](https://www.linearity.io/curve) *(Mac, iOS)*
 - 💵 [Corel Draw](https://www.coreldraw.com/) *(Windows, Mac)*
 - 💵 [Affinity Designer](https://affinity.serif.com/en-us/) *(Windows, Mac, iOS)*
-- 💵 [Vectornator](https://www.vectornator.io/) *(Mac, iOS)*
 - 💵 [Xara Designer](https://www.xara.com/designerpro-plus/) *(Windows)*
 - 🔒 [Corel Vector](https://app.corelvector.com/) *(Browser)*
 
@@ -95,6 +95,7 @@
 - ✨ [Wick Editor](https://www.wickeditor.com/#/) *(Browser)*
 - ✨ [Synfig](https://www.synfig.org/) *(Browser)*
 - ✨ [Glaxnimate](https://glaxnimate.mattbas.org/) *(Windows, Mac, Linux)*
+- ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
 - 💵 [CACANi](https://cacani.sg/) *(Windows)*
 - 💵 [TVPaint](https://www.tvpaint.com/v2/wp/?page_id=1224&lang=en) *(Windows, Mac, Linux, Android)*
 - 💵 [Toon Boom](https://www.toonboom.com/) *(Windows, Mac, Linux)*
@@ -237,6 +238,7 @@
 - ✨ [Friction](https://friction.graphics/)  *(Windows,Linux)*
 - ✨ [AstroFox](https://astrofox.io/) *(Windows, Mac, Linux)*
 - ⭐️ (🔒) [Fable](https://www.fable.app/)  *(Browser)*
+- ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion/) *(Mac, iOS)*
 - 🔒 [Cavalry](https://cavalry.scenegroup.co/) *(Windows, Mac)*
 - 🔒 [Rive](https://rive.app/) *(Browser, Windows, Mac)*
