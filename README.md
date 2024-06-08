@@ -121,15 +121,19 @@
 
 #### Designer
 - ✨ [Material Maker](https://www.materialmaker.org/) *(Windows, Mac, Linux)*
+- ✨ [ArmorLab] (https://armorlab.org/) *(Windows, Mac, Linux)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
 - ⭐️ [InstaMAT](https://instamaterial.com/) *(Windows, Mac)*
 
 #### Painter
-- ✨ [ArmorPaint](https://armorpaint.org/) *(Windows, Linux)*
+- ✨ [ArmorPaint](https://armorpaint.org/) *(Windows, Mac, Linux, Android, IOS)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
 - 💵 [3DCoat](https://3dcoat.com/) *(Windows, Mac, Linux)*
 - 💵 (or 🔒) [Marmoset Toolbag](https://marmoset.co/toolbag/) *(Windows, Mac)*
 
+#### Sampler
+(for texturing) - ✨ [ArmorLab] (https://armorlab.org/) *(Windows, Mac, Linux)* (Have Photo to PBR and Prompt to PBR)
+(for meshes) - ⭐️[RealityCapture] https://www.capturingreality.com/
 ## Lightroom
 
 - ✨ [RawTherapee](https://www.rawtherapee.com/) *(Windows, Mac, Linux)*
