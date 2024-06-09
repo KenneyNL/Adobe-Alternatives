@@ -31,9 +31,9 @@
 
 - ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)* (If you're planning on bashing GIMP, just move on. Nobody cares)
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, Mac, Linux)*
-- ⭐️ [Photopea](https://www.photopea.com) *(Browser)*
+- ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(Windows)*
-- ⭐️ [Pixlr](https://pixlr.com) *(Browser)*
+- ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(Mac)*
 - 💵 [PaintShop Pro](https://www.paintshoppro.com) *(Windows)*
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo) *(Windows, Mac, iOS)*
@@ -45,7 +45,7 @@
 - ✨ [Krita](https://krita.org) *(Windows, Mac, Linux, Android)*
 - ✨ [MyPaint](https://mypaint.app) *(Windows, Mac, Linux)*
 - ⭐️ [IbisPaint](https://ibispaint.com) *(Windows, Android, iOS)*
-- ⭐️ [Sketchbook](https://www.sketchbook.com) *(Android, iOS)*
+- ⭐️ (💵) [Sketchbook](https://www.sketchbook.com) *(Windows, Mac, Android, iOS)*
 - ⭐️ [FireAlpaca](https://firealpaca.com) *(Windows, Mac)*
 - ⭐️ [Medibang](https://medibangpaint.com) *(Windows, Mac, Android)*
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, iOS)*
@@ -71,7 +71,7 @@
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(Windows, Mac)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 - ⭐️ [GraphicsGale](https://graphicsgale.com)  *(Windows)*
-- 💵 [Pro Motion NG](https://www.cosmigo.com) *(Windows, Mac, Linux)*
+- 💵 [Pro Motion NG](https://www.cosmigo.com) *(Windows)*
 - 💵 [Lightcube](https://www.lightcube.art) *(Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com) *(Windows, Mac, Linux)*
 - 💵 [Pixquare](https://www.pixquare.art) *(Mac, iOS)*
@@ -83,7 +83,7 @@
 - ✨ [Inkscape](https://inkscape.org) *(Windows, Mac, Linux)*
 - ⭐️ [Boxy SVG](https://boxy-svg.com) *(Browser)*
 - ⭐️ (🔒) [Linearity Curve](https://www.linearity.io/curve) *(Mac, iOS)*
-- 💵 [Corel Draw](https://www.coreldraw.com) *(Windows, Mac)*
+- 💵 [CorelDRAW](https://www.coreldraw.com) *(Windows, Mac)*
 - 💵 [Affinity Designer](https://affinity.serif.com) *(Windows, Mac, iOS)*
 - 💵 [Xara Designer](https://www.xara.com/designerpro-plus) *(Windows)*
 - 🔒 [Corel Vector](https://app.corelvector.com) *(Browser)*
@@ -103,7 +103,7 @@
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
 - ✨ [OpenToonz](https://opentoonz.github.io/e) *(Windows, Mac, Linux)*
 - ✨ [Wick Editor](https://www.wickeditor.com) *(Browser)*
-- ✨ [Synfig](https://www.synfig.org) *(Browser)*
+- ✨ [Synfig](https://www.synfig.org) *(Windows, Mac, Linux)*
 - ✨ [Glaxnimate](https://glaxnimate.mattbas.org) *(Windows, Mac, Linux)*
 - ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
 - 💵 [CACANi](https://cacani.sg) *(Windows)*
@@ -136,7 +136,7 @@
 
 ### Painter
 
-- ✨ [ArmorPaint](https://armorpaint.org) *(Windows, Linux)*
+- ✨ [ArmorPaint](https://armorpaint.org) *(Windows, Mac, Linux, iOS, Android)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
 - 💵 [3DCoat](https://3dcoat.com) *(Windows, Mac, Linux)*
 - 💵 (or 🔒) [Marmoset Toolbag](https://marmoset.co/toolbag) *(Windows, Mac)*
@@ -185,7 +185,7 @@
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
-- 🔒 [Xodo](https://xodo.com) *(Browser)*
+- 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
 
 ### Reader
 
