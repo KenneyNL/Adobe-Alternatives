@@ -2,7 +2,7 @@
 
 > A list of alternatives for Adobe software, originally collected by [@XdanielArt](https://x.com/XdanielArt) and improved upon by the community. Feel free to open issues or pull requests, or create an image (for easy sharing) out of the data. The lists are always ordered with the free & open source option on top, but it might not be the best alternative depending on your use case.
 
-**Caption:**
+**Legend:**
 
 - ✨ = Free and open-source
 - ⭐️ = Free of charge
