@@ -4,7 +4,7 @@
 
 **Caption:**
 
-- ✨ = Free & open-source
+- ✨ = Free and open-source
 - ⭐️ = Free of charge
 - 💵 = Single purchase
 - 🔒 = Subscription for more functions
@@ -214,7 +214,7 @@
 
 - ✨ [Audacity](https://www.audacityteam.org) *(Windows, Mac, Linux)*
 - ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [DaVinci Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
 - 💵 [GoldWave](http://www.goldwave.com) *(Windows, Mac, Linux)*
 - 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
 - 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge) *(Windows, Mac)*
@@ -226,11 +226,12 @@
 - ⭐️ [Cakewalk](https://www.bandlab.com/products/cakewalk)  *(Windows)*
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband) *(Mac)*
 - ⭐️ (💵) [Tracktion](https://www.tracktion.com) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, Mac)*
+- ⭐️ (🔒) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, Mac)*
 - 💵 [Reaper](https://www.reaper.fm) *(Windows, Mac, Linux)*
 - 💵 [Logic Pro](https://www.apple.com/logic-pro) *(Mac, iOS)*
 - 💵 [Ableton Live](https://www.ableton.com/en/live) *(Windows, Mac)*
-- 💵 [FL Studio](https://www.image-line.com) *(Windows, Mac, Android)*
+- 💵 [FL Studio](https://www.image-line.com/fl-studio) *(Windows, Mac)*
+- 💵 [FL Studio Mobile](https://www.image-line.com/fl-studio-mobile) *(Windows, Mac, Android, iOS)*
 - 💵 [Bitwig](https://www.bitwig.com) *(Windows, Mac, Linux)*
 - 💵 [Steinberg Wavelab](https://www.steinberg.net/wavelab) *(Windows, Mac)*
 - 💵 [Steinberg Cubase](https://www.steinberg.net/cubase) *(Windows, Mac)*
@@ -241,11 +242,11 @@
 
 ## After Effects
 
-### Compositing & FX
+### Compositing and effects
 
 - ✨ [Natron](https://natrongithub.github.io) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [DaVinci Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post) *(Windows)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, Mac, Linux)*
