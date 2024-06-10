@@ -32,6 +32,7 @@
 - ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)* (If you're planning on bashing GIMP, just move on. Nobody cares)
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
+- ⭐️ (💵) [Facet](https://facet.ai) *(Browser)*
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(Windows)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(Mac)*
@@ -133,11 +134,13 @@
 - ✨ [Material Maker](https://www.materialmaker.org) *(Windows, Mac, Linux)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
 - ⭐️ [InstaMAT](https://instamaterial.com) *(Windows, Mac)*
+- ⭐️ [PixaFlux](http://pixaflux.com/index.html) *(Windows, Mac)*
 
 ### Painter
 
 - ✨ [ArmorPaint](https://armorpaint.org) *(Windows, Mac, Linux, iOS, Android)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
+- ⭐️ [InstaMAT](https://instamaterial.com) *(Windows, Mac)*
 - 💵 [3DCoat](https://3dcoat.com) *(Windows, Mac, Linux)*
 - 💵 (or 🔒) [Marmoset Toolbag](https://marmoset.co/toolbag) *(Windows, Mac)*
 
