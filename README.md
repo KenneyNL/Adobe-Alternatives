@@ -211,7 +211,7 @@
 #### DAWs
 
 - ✨ (💵, 🔒) [Ardour](https://ardour.org/) *(Windows, Mac, Linux)*
-- ✨ (💵, 🔒) [Zrythm](https://www.zrythm.org/) *(Windows, Mac, Linux)*
+- ✨ (💵, 🔒) [Zrythm](https://www.zrythm.org/) *(Windows, Mac, Linux, FreeBSD)*
 - ✨ [LMMS](https://lmms.io/) *(Windows, Mac, Linux)*
 - ⭐️ [Cakewalk](https://www.bandlab.com/products/cakewalk)  *(Windows)*
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband/) *(Mac)*
