@@ -31,7 +31,7 @@
 - ✨ [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) *(Windows, Mac, Linux)* (Don't move the gimprc file)
 - ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)* (If you're planning on bashing GIMP, just move on. Nobody cares)
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
-- ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Browser, Windows, Mac, Linux)*
+- ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, Mac, Linux)*
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(Windows)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(Mac)*
