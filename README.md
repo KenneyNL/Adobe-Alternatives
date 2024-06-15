@@ -100,6 +100,7 @@
 ### General
 
 - ✨ [Tahoma2D](https://tahoma2d.org) *(Windows, Mac, Linux)*
+- ✨ [Bforartists](https://www.bforartists.de) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
 - ✨ [OpenToonz](https://opentoonz.github.io/e) *(Windows, Mac, Linux)*
 - ✨ [Wick Editor](https://www.wickeditor.com) *(Browser)*
@@ -246,6 +247,7 @@
 ### Compositing and effects
 
 - ✨ [Natron](https://natrongithub.github.io) *(Windows, Mac, Linux)*
+- ✨ [Bforartists](https://www.bforartists.de) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
@@ -254,6 +256,7 @@
 
 ### Motion graphics
 
+- ✨ [Bforartists](https://www.bforartists.de) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
 - ✨ [Friction](https://friction.graphics)  *(Windows, Linux)*
 - ✨ [AstroFox](https://astrofox.io) *(Windows, Mac, Linux)*
