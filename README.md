@@ -250,6 +250,7 @@
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post) *(Windows)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, Mac, Linux)*
+- 💵 (🔒) [Autograph](https://www.left-angle.com) *(Windows, Mac, Linux)*
 
 ### Motion graphics
 
@@ -259,6 +260,8 @@
 - ⭐️ (🔒) [Fable](https://www.fable.app)  *(Browser)*
 - ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(Mac, iOS)*
+- 💵 (🔒) [Autograph](https://www.left-angle.com) *(Windows, Mac, Linux)*
 - 🔒 [Cavalry](https://cavalry.scenegroup.co) *(Windows, Mac)*
 - 🔒 [Rive](https://rive.app) *(Browser, Windows, Mac)*
 - 🔒 [Jitter](https://jitter.video) *(Browser)*
+
