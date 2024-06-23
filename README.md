@@ -1,6 +1,6 @@
 # Adobe Alternatives
 
-> A list of alternatives for Adobe software, originally collected by [@XdanielArt](https://x.com/XdanielArt) and improved upon by the community. Feel free to open issues or pull requests, or create an image (for easy sharing) out of the data. The lists are always ordered with the free & open source option on top, but it might not be the best alternative depending on your use case.
+> A list of alternatives for Adobe software, originally collected by [@XdanielArt](https://x.com/XdanielArt) and improved upon by the community. Feel free to open issues or pull requests, or create an image (for easy sharing) out of the data. The lists are always ordered with the free and open-source option on top, but it might not be the best alternative depending on your use case.
 
 **Legend:**
 
@@ -28,10 +28,10 @@
 ## Photoshop
 
 ### Photography
-
+- ✨ [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) *(Windows, Mac, Linux)* (Don't move the gimprc file)
 - ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)* (If you're planning on bashing GIMP, just move on. Nobody cares)
-- ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
+- ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, Mac, Linux)*
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(Windows)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(Mac)*
@@ -100,6 +100,7 @@
 ### General
 
 - ✨ [Tahoma2D](https://tahoma2d.org) *(Windows, Mac, Linux)*
+- ✨ [Bforartists](https://www.bforartists.de) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
 - ✨ [OpenToonz](https://opentoonz.github.io/e) *(Windows, Mac, Linux)*
 - ✨ [Wick Editor](https://www.wickeditor.com) *(Browser)*
@@ -143,6 +144,7 @@
 
 ## Lightroom
 
+- ✨ [ART](https://bitbucket.org/agriggio/art/wiki/Home) *(Windows, Mac, Linux)*
 - ✨ [RawTherapee](https://www.rawtherapee.com) *(Windows, Mac, Linux)*
 - ✨ [Darktable](https://www.darktable.org) *(Windows, Mac, Linux)*
 - ✨ [digiKam](https://www.digikam.org) *(Windows, Mac, Linux)*
@@ -170,8 +172,8 @@
 
 - ✨ [Olive](https://olivevideoeditor.org) *(Windows, Mac, Linux)*
 - ✨ [Kdenlive](https://kdenlive.org) *(Windows, Mac, Linux)*
-- ✨ [OpenShot](https://www.openshot.org) *(Windows, Mac, Linux)*
 - ✨ [Shotcut](https://www.shotcut.org) *(Windows, Mac, Linux)*
+- ✨ [OpenShot](https://www.openshot.org) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
 - 💵 (or 🔒) [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro)  *(Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(Mac, iOS)*
@@ -200,7 +202,7 @@
 
 ## Dreamweaver
 
-- ✨ [Netbeans](https://netbeans.apache.org) *(Windows, Mac, Linux)*
+- ✨ [NetBeans](https://netbeans.apache.org) *(Windows, Mac, Linux)*
 - ✨ [VSCodium](https://vscodium.com) *(Windows, Mac, Linux)*
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com) *(Windows, Mac, Linux)*
 - ⭐️ [PageFabric](https://pagefabric-app.com) *(Windows)*
@@ -211,7 +213,7 @@
 ## Audition
 
 ### General
-
+- ✨ [Tenacity](https://tenacityaudio.org) *(Windows, Linux)*
 - ✨ [Audacity](https://www.audacityteam.org) *(Windows, Mac, Linux)*
 - ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
@@ -245,6 +247,7 @@
 ### Compositing and effects
 
 - ✨ [Natron](https://natrongithub.github.io) *(Windows, Mac, Linux)*
+- ✨ [Bforartists](https://www.bforartists.de) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
@@ -253,6 +256,7 @@
 
 ### Motion graphics
 
+- ✨ [Bforartists](https://www.bforartists.de) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
 - ✨ [Friction](https://friction.graphics)  *(Windows, Linux)*
 - ✨ [AstroFox](https://astrofox.io) *(Windows, Mac, Linux)*
