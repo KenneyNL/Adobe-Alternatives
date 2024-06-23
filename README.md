@@ -123,7 +123,7 @@
 
 - ✨ [Scribus](https://www.scribus.net) *(Windows, Mac, Linux)*
 - ✨ [Laidout](https://laidout.org) *(Linux)*
-- 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher) *(Windows, Mac)*
+- 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher) *(Windows, Mac, iOS)*
 - 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, Mac)*
 
 ## Substance
