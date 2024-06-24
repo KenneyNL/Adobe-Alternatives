@@ -22,6 +22,7 @@
 - [Acrobat](https://github.com/KenneyNL/Adobe-Alternatives#acrobat)
 - [Bridge](https://github.com/KenneyNL/Adobe-Alternatives#bridge)
 - [Dreamweaver](https://github.com/KenneyNL/Adobe-Alternatives#dreamweaver)
+- [ColdFusion](https://github.com/KenneyNL/Adobe-Alternatives#ColdFusion)
 - [Audition](https://github.com/KenneyNL/Adobe-Alternatives#audition)
 - [After Effects](https://github.com/KenneyNL/Adobe-Alternatives#after-effects)
 
@@ -207,6 +208,10 @@
 - 💵 (🔒) [Nova](https://nova.app) *(Mac)*
 - 🔒 [WebStorm](https://www.jetbrains.com/webstorm) *(Windows, Mac, Linux)*
 - 🔒 [PHPStorm](https://www.jetbrains.com/phpstorm) *(Windows, Mac, Linux)*
+
+## ColdFusion
+
+- ✨ (🔒) [BoxLang](https://boxlang.io/) *(Windows, Mac, Linux)*
 
 ## Audition
 
