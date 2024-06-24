@@ -75,6 +75,10 @@
 - 💵 [Lightcube](https://www.lightcube.art) *(Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com) *(Windows, Mac, Linux)*
 - 💵 [Pixquare](https://www.pixquare.art) *(Mac, iOS)*
+- ⭐️ [GraphicsGale](https://graphicsgale.com/us)  *(Windows)*
+- 💵 [Pro Motion NG](https://www.cosmigo.com/) *(Windows, Mac, Linux)*
+- 💵 [Pyxel Edit](https://pyxeledit.com/) *(Windows, Mac, Linux)*
+- ✨ (or 💵) [Pixel Composer](https://makham.itch.io/pixel-composer) *(Windows)*
 
 ## Illustrator
 
@@ -250,6 +254,7 @@
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post) *(Windows)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, Mac, Linux)*
+- ✨ (or 💵) [Pixel Composer](https://makham.itch.io/pixel-composer) *(Windows)*
 
 ### Motion graphics
 
