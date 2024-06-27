@@ -186,12 +186,14 @@
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
+- 🔒 [Smallpdf](https://smallpdf.com) *(Browser)*
 
 ### Reader
 
 - ✨ [Zathura](https://pwmt.org/projects/zathura) *(Linux)*
 - ✨ [Sioyek](https://sioyek.info) *(Windows, Mac, Linux)*
 - ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
+- 🔒 [Smallpdf](https://smallpdf.com/pdf-reader) *(Browser, Windows, iOS, Android)*
 
 ## Bridge
 
