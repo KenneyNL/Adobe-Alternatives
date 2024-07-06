@@ -47,11 +47,11 @@
 - ⭐️ [IbisPaint](https://ibispaint.com) *(Windows, Android, iOS)*
 - ⭐️ (💵) [Sketchbook](https://www.sketchbook.com) *(Windows, Mac, Android, iOS)*
 - ⭐️ [FireAlpaca](https://firealpaca.com) *(Windows, Mac)*
-- ⭐️ [Medibang](https://medibangpaint.com) *(Windows, Mac, Android)*
+- ⭐️ [MediBang](https://medibangpaint.com) *(Windows, Mac, Android)*
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, iOS)*
 - 💵 [Corel Painter](https://www.painterartist.com) *(Windows, Mac)*
 - 💵 [Rebelle](https://www.escapemotions.com/products/rebelle) *(Windows, Mac)*
-- 💵 (🔒) [Clip Studio Paint](https://www.clipstudio.net)  *(Windows, Mac, Android, iOS)*
+- 💵 (🔒) [Clip Studio Paint](https://www.clipstudio.net) *(Windows, Mac, Android, iOS)*
 - 💵 [PaintTool SAI](https://www.systemax.jp/en/sai) *(Windows)*
 - 💵 [Procreate](https://procreate.com) *(iOS)*
 - 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
@@ -213,6 +213,7 @@
 ## Audition
 
 ### General
+
 - ✨ [Tenacity](https://tenacityaudio.org) *(Windows, Linux)*
 - ✨ [Audacity](https://www.audacityteam.org) *(Windows, Mac, Linux)*
 - ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(Windows, Mac, Linux)*
@@ -251,14 +252,14 @@
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
+- ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion graphics tools) *(Windows, Mac, Linux)*
 - 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post) *(Windows)*
-- ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, Mac, Linux)*
 
 ### Motion graphics
 
 - ✨ [Bforartists](https://www.bforartists.de) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
-- ✨ [Friction](https://friction.graphics)  *(Windows, Linux)*
+- ✨ [Friction](https://friction.graphics) *(Windows, Linux)*
 - ✨ [AstroFox](https://astrofox.io) *(Windows, Mac, Linux)*
 - ⭐️ (🔒) [Fable](https://www.fable.app)  *(Browser)*
 - ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
