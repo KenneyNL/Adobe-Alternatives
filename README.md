@@ -182,7 +182,7 @@
 
 ### Editor
 
-- ✨ [PDF Arranger](https://github.com/pdfarranger/pdfarranger) *(Windows, Linux)
+- ✨ [PDF Arranger](https://github.com/pdfarranger/pdfarranger) *(Windows, Linux)*
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
