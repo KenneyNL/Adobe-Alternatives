@@ -258,7 +258,7 @@
 - ✨ [AstroFox](https://astrofox.io) *(Windows, Mac, Linux)*
 - ⭐️ (🔒) [Fable](https://www.fable.app)  *(Browser)*
 - ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
+- ⭐️ (🔒) [Cavalry](https://cavalry.scenegroup.co) *(Windows, Mac)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(Mac, iOS)*
-- 🔒 [Cavalry](https://cavalry.scenegroup.co) *(Windows, Mac)*
 - 🔒 [Rive](https://rive.app) *(Browser, Windows, Mac)*
 - 🔒 [Jitter](https://jitter.video) *(Browser)*
