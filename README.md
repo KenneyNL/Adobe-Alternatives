@@ -34,6 +34,7 @@
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(Windows)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
+- ⭐️ (🔒) [Photopea](https://pixlr.com) *(Browser)*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(Mac)*
 - 💵 [PaintShop Pro](https://www.paintshoppro.com) *(Windows)*
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo) *(Windows, Mac, iOS)*
