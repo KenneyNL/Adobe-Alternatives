@@ -175,8 +175,9 @@
 - ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
 - 💵 (or 🔒) [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro)  *(Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(Mac, iOS)*
+- 💵 (or 🔒) [Filmora](https://filmora.wondershare.com) *(Windows, Mac, Android, iOS)*
 - 🔒 [Kapwing](https://www.kapwing.com) *(Browser)*
-- 🔒 [CapCut](https://www.capcut.com) *(Browser, Windows, Android, iOS)*
+- 🔒 [CapCut](https://www.capcut.com) *(Browser, Windows, Mac, Android, iOS)*
 
 ## Acrobat
 
@@ -185,6 +186,7 @@
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
+- 💵 (or 🔒) [PDFelement](https://pdf.wondershare.com) *(Browser, Windows, Mac, Android, iOS)*
 - 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
 
 ### Reader
@@ -192,6 +194,7 @@
 - ✨ [Zathura](https://pwmt.org/projects/zathura) *(Linux)*
 - ✨ [Sioyek](https://sioyek.info) *(Windows, Mac, Linux)*
 - ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
+- ⭐️ [Wondershare PDF Reader](https://pdf.wondershare.com/pdf-reader.html) *(Browser, Windows, Mac, Android, iOS)*
 
 ## Bridge
 
