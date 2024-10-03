@@ -194,7 +194,7 @@
 - ✨ [Zathura](https://pwmt.org/projects/zathura) *(Linux)*
 - ✨ [Sioyek](https://sioyek.info) *(Windows, Mac, Linux)*
 - ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
-- ⭐️ [Wondershare PDF Reader](https://pdf.wondershare.com/pdf-reader.html) *(Browser, Windows, Mac, Android, iOS)*
+- ⭐️ [Wondershare PDF Reader](https://pdf.wondershare.com/pdf-reader.html) *(Windows)*
 
 ## Bridge
 
