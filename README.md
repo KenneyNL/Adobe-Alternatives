@@ -188,6 +188,7 @@
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 💵 (or 🔒) [PDFelement](https://pdf.wondershare.com) *(Browser, Windows, Mac, Android, iOS)*
 - 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
+- 🔒 [WPS Office](https://www.wps.com/) *(Browser, Windows, Mac, Android, iOS)*
 
 ### Reader
 
