@@ -39,6 +39,7 @@
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo) *(Windows, Mac, iOS)*
 - 💵 [Photoline](https://www.pl32.com) *(Windows, Mac)*
 - 💵 [Acorn](https://flyingmeat.com/acorn) *(Mac)*
+- ✨ [digiKam] (https://www.digikam.org/) *(Windows, Mac, Linux)*
 
 ### Painting
 
@@ -58,6 +59,7 @@
 - 💵 [Infinite Studio](https://www.infinitestudio.art) *(Android, iOS)*
 - 💵 [Realistic Paint Studio](https://realisticpaint.com) *(Windows, Mac, iOS)*
 - 💵 [ArtRage](https://www.artrage.com/artrage) *(Windows, Mac, Android, iOS)*
+- ✨ [Tux Paint] (https://tuxpaint.org/) *(Windows, Mac, Linux)*
 
 ### Pixel art
 
@@ -97,7 +99,7 @@
 
 ## Animate
 
-### General
+### General1
 
 - ✨ [Tahoma2D](https://tahoma2d.org) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
@@ -210,7 +212,7 @@
 
 ## Audition
 
-### General
+### General2
 
 - ✨ [Audacity](https://www.audacityteam.org) *(Windows, Mac, Linux)*
 - ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(Windows, Mac, Linux)*
