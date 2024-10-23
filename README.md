@@ -256,7 +256,6 @@
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
 - ✨ [Friction](https://friction.graphics)  *(Windows, Linux)*
 - ✨ [AstroFox](https://astrofox.io) *(Windows, Mac, Linux)*
-- ⭐️ (🔒) [Fable](https://www.fable.app)  *(Browser)*
 - ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(Mac, iOS)*
 - 🔒 [Cavalry](https://cavalry.scenegroup.co) *(Windows, Mac)*
