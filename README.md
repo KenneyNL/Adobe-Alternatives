@@ -67,6 +67,7 @@
 - ✨ [LibreSprite](https://libresprite.github.io) *(Windows, Mac, Linux)*
 - ✨ [GrafX2](http://grafx2.chez.com) *(Windows, Linux, Android)*
 - ✨ [Pixilart](https://www.pixilart.com/draw) *(Browser, Android, iOS)*
+- ✨ [Piskel](https://www.piskelapp.com) *(Browser, Windows, Mac, Linux)*
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor) *(Browser)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(Windows, Mac)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
