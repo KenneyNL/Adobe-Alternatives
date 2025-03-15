@@ -136,7 +136,7 @@
 
 ### Painter
 
-- ✨ [ArmorPaint](https://armorpaint.org) *(Windows, Mac, Linux, iOS, Android)*
+- ✨ (💵) [ArmorPaint](https://armorpaint.org) *(Windows, Mac, Linux, iOS, Android)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
 - 💵 [3DCoat](https://3dcoat.com) *(Windows, Mac, Linux)*
 - 💵 (or 🔒) [Marmoset Toolbag](https://marmoset.co/toolbag) *(Windows, Mac)*
