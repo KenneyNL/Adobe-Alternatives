@@ -186,6 +186,7 @@
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
+- ✨ [Dpdf](https://dpdf.com) *(Browser)*
 
 ### Reader
 
