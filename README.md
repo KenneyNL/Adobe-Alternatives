@@ -227,10 +227,10 @@
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband) *(Mac)*
 - ⭐️ (💵) [Tracktion](https://www.tracktion.com) *(Windows, Mac, Linux)*
 - ⭐️ (🔒) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, Mac)*
-- 💵 [Reaper](https://www.reaper.fm) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [Reaper](https://www.reaper.fm) *(Windows, Mac, Linux)*
 - 💵 [Logic Pro](https://www.apple.com/logic-pro) *(Mac, iOS)*
 - 💵 [Ableton Live](https://www.ableton.com/en/live) *(Windows, Mac)*
-- 💵 [FL Studio](https://www.image-line.com/fl-studio) *(Windows, Mac)*
+- ⭐️ (💵) [FL Studio](https://www.image-line.com/fl-studio) *(Windows, Mac)*
 - 💵 [FL Studio Mobile](https://www.image-line.com/fl-studio-mobile) *(Windows, Mac, Android, iOS)*
 - 💵 [Bitwig](https://www.bitwig.com) *(Windows, Mac, Linux)*
 - 💵 [Steinberg Wavelab](https://www.steinberg.net/wavelab) *(Windows, Mac)*
