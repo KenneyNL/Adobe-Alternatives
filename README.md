@@ -81,6 +81,7 @@
 ### General
 
 - ✨ [Inkscape](https://inkscape.org) *(Windows, Mac, Linux)*
+- ✨ [Graphite](https://graphite.rs) *(Browser now / Windows, Mac, Linux apps in future)*
 - ⭐️ [Boxy SVG](https://boxy-svg.com) *(Browser)*
 - ⭐️ (🔒) [Linearity Curve](https://www.linearity.io/curve) *(Mac, iOS)*
 - 💵 [CorelDRAW](https://www.coreldraw.com) *(Windows, Mac)*
