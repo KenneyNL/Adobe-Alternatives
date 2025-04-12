@@ -54,6 +54,7 @@
 - 💵 (🔒) [Clip Studio Paint](https://www.clipstudio.net)  *(Windows, Mac, Android, iOS)*
 - 💵 [PaintTool SAI](https://www.systemax.jp/en/sai) *(Windows)*
 - 💵 [Procreate](https://procreate.com) *(iOS)*
+- 💵 [Linea Sketch](https://linea-app.com) *(iOS)*
 - 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
 - 💵 [Infinite Studio](https://www.infinitestudio.art) *(Android, iOS)*
 - 💵 [Realistic Paint Studio](https://realisticpaint.com) *(Windows, Mac, iOS)*
@@ -185,6 +186,7 @@
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
+- 💵 (or 🔒) [PDF Expert](https://pdfexpert.com) *(Mac, iOS)*
 - 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
 
 ### Reader
@@ -218,6 +220,7 @@
 - 💵 [GoldWave](http://www.goldwave.com) *(Windows, Mac, Linux)*
 - 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
 - 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge) *(Windows, Mac)*
+- 💵 [Fission](https://rogueamoeba.com/fission/) *(Mac)*
 
 ### DAWs
 
