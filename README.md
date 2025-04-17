@@ -136,6 +136,7 @@
 
 ### Painter
 
+- ✨ [UcuPaint](https://extensions.blender.org/add-ons/ucupaint/) *(Bledner Extension)*
 - ✨ [ArmorPaint](https://armorpaint.org) *(Windows, Mac, Linux, iOS, Android)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
 - 💵 [3DCoat](https://3dcoat.com) *(Windows, Mac, Linux)*
