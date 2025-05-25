@@ -161,6 +161,7 @@
 
 - ✨ [Penpot](https://penpot.app) *(Windows, Mac, Linux)*
 - ✨ [Draftoola](https://github.com/nitramr/Draftoola) *(Linux)*
+- ✨ [Quant-UX](https://quant-ux.com/) *(Windows, Mac, Linux)*
 - ⭐️ [Lunacy](https://icons8.com/lunacy) *(Windows, Mac, Linux)*
 - ⭐️ (🔒) [Figma](https://www.figma.com)  *(Browser, Windows, Mac)*
 - 💵 [Sketch](https://www.sketch.com) *(Mac)*
