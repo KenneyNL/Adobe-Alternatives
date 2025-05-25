@@ -156,6 +156,7 @@
 - 💵 [Dx0 PhotoLab](https://www.dxo.com/dxo-photolab) *(Windows, Mac)*
 - 💵 [Luminar Neo](https://skylum.com/luminar) *(Windows, Mac)*
 - 💵 [Aurora HDR](https://skylum.com/aurora-photo-editor) *(Windows, Mac)*
+- 💵 [Tonfotos](https://tonfotos.com/) *(Windows, Linux, Mac)*
 
 ## XD
 
