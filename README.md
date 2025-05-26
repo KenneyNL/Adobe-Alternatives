@@ -33,6 +33,7 @@
 
 - ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)* (If you're planning on bashing GIMP, just move on. Nobody cares)
 - ✨️ [Pinta](https://www.pinta-project.com) *(Windows, Mac, Linux)*
+- ✨ [digiKam] (https://www.digikam.org/) *(Windows, Mac, Linux)*
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(Windows)*
@@ -47,6 +48,7 @@
 
 - ✨ [Krita](https://krita.org) *(Windows, Mac, Linux, Android)*
 - ✨ [MyPaint](https://mypaint.app) *(Windows, Mac, Linux)*
+- ✨ [Tux Paint](https://tuxpaint.org/) *(Windows, Mac, Linux)*
 - ⭐️ [IbisPaint](https://ibispaint.com) *(Windows, Android, iOS)*
 - ⭐️ (💵) [Sketchbook](https://www.sketchbook.com) *(Windows, Mac, Android, iOS)*
 - ⭐️ [FireAlpaca](https://firealpaca.com) *(Windows, Mac)*
