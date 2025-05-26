@@ -270,6 +270,7 @@
 - ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, Mac, Linux)*
+- 💵 (⌛🔒) [Autograph](https://www.left-angle.com) *(Windows, Mac, Linux)*
 - 🔒 [Autodesk Flame](https://www.autodesk.co.uk/products/flame/overview?term=1-YEAR&tab=subscription) *(Windows, Mac, Linux)*
 - 🔒 [Autodesk Maya](https://www.autodesk.co.uk/products/maya/overview?term=1-YEAR&tab=subscription) *(Windows, Mac, Linux)*
 
@@ -281,5 +282,6 @@
 - ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
 - ⭐️ (🔒) [Cavalry](https://cavalry.scenegroup.co) *(Windows, Mac)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(Mac, iOS)*
+- 💵 (⌛🔒) [Autograph](https://www.left-angle.com) *(Windows, Mac, Linux)*
 - 🔒 [Rive](https://rive.app) *(Browser, Windows, Mac)*
 - 🔒 [Jitter](https://jitter.video) *(Browser)*
