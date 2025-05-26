@@ -8,6 +8,7 @@
 - ⭐️ = Free of charge
 - 💵 = Single purchase
 - 🔒 = Subscription for more functions
+- ⌛ = Free trial
 
 **Alternatives to:**
 
@@ -84,8 +85,8 @@
 
 - ✨ [Inkscape](https://inkscape.org) *(Windows, Mac, Linux)*
 - ✨ [Graphite](https://graphite.rs) *(Browser now / Windows, Mac, Linux apps in future)*
-- ⭐️ [Boxy SVG](https://boxy-svg.com) *(Browser)*
 - ⭐️ (🔒) [Linearity Curve](https://www.linearity.io/curve) *(Mac, iOS)*
+- 💵 (⌛) [Boxy SVG](https://boxy-svg.com) *(Browser)*
 - 💵 [CorelDRAW](https://www.coreldraw.com) *(Windows, Mac)*
 - 💵 [Affinity Designer](https://affinity.serif.com) *(Windows, Mac, iOS)*
 - 💵 [Xara Designer](https://www.xara.com/designerpro-plus) *(Windows)*
