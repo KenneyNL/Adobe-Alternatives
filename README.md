@@ -269,6 +269,8 @@
 - ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, Mac, Linux)*
+- 🔒 [Autodesk Flame](https://www.autodesk.co.uk/products/flame/overview?term=1-YEAR&tab=subscription) *(Windows, Mac, Linux)*
+- 🔒 [Autodesk Maya](https://www.autodesk.co.uk/products/maya/overview?term=1-YEAR&tab=subscription) *(Windows, Mac, Linux)*
 
 ### Motion graphics
 
