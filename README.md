@@ -9,6 +9,7 @@
 - 💵 = Single purchase
 - 🔒 = Subscription for more functions
 - ⌛ = Free trial
+- 👁️ = Source available but not open source.
 
 **Alternatives to:**
 
@@ -63,7 +64,6 @@
 
 ### Pixel art
 
-- ✨ (or 💵) [Aseprite](https://www.aseprite.org) *(Windows, Mac, Linux)*
 - ✨ [Pixelorama](https://orama-interactive.itch.io/pixelorama) *(Browser, Windows, Mac, Linux, Raspberry Pi)*
 - ✨ [PixiEditor](https://pixieditor.net) *(Windows)*
 - ✨ [LibreSprite](https://libresprite.github.io) *(Windows, Mac, Linux)*
@@ -74,6 +74,7 @@
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(Windows, Mac)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 - ⭐️ [GraphicsGale](https://graphicsgale.com)  *(Windows)*
+- ⭐️ (or 💵 ) (👁️) [Aseprite](https://www.aseprite.org) *(Windows, Mac, Linux)*
 - 💵 [Pro Motion NG](https://www.cosmigo.com) *(Windows)*
 - 💵 [Lightcube](https://www.lightcube.art) *(Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com) *(Windows, Mac, Linux)*
