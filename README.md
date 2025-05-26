@@ -32,6 +32,7 @@
 ### Photography
 
 - ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)* (If you're planning on bashing GIMP, just move on. Nobody cares)
+- ✨️ [Pinta](https://www.pinta-project.com) *(Windows, Mac, Linux)*
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(Windows)*
