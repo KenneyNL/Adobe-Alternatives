@@ -208,6 +208,7 @@
 ## Bridge
 
 - ⭐️ [XnView MP](https://www.xnview.com/en/xnviewmp) *(Windows, Mac, Linux)*
+- 💵 (⌛) [Eagle](https://en.eagle.cool/) *(Windows, Mac)*
 - 🔒 [Anchorpoint](https://www.anchorpoint.app) *(Windows, Mac)*
 
 ## Dreamweaver
