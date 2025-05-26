@@ -221,6 +221,10 @@
 - 🔒 [WebStorm](https://www.jetbrains.com/webstorm) *(Windows, Mac, Linux)*
 - 🔒 [PHPStorm](https://www.jetbrains.com/phpstorm) *(Windows, Mac, Linux)*
 
+## Media Encoder
+
+- ✨ [Handbrake](https://handbrake.fr/) *(Windows, Mac, Linux)*
+
 ## Audition
 
 ### General
@@ -234,7 +238,6 @@
 - 💵 [Fission](https://rogueamoeba.com/fission/) *(Mac)*
 
 ### DAWs
-
 
 - ✨ (💵, 🔒) [Ardour](https://ardour.org/) *(Windows, Mac, Linux)*
 - ✨ (💵, 🔒) [Zrythm](https://www.zrythm.org/) *(Windows, Mac, Linux, FreeBSD)*
