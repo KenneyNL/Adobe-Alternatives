@@ -152,6 +152,16 @@
 - 💵 [3DCoat](https://3dcoat.com) *(Windows, Mac, Linux)*
 - 💵 (or 🔒) [Marmoset Toolbag](https://marmoset.co/toolbag) *(Windows, Mac)*
 
+### Sampler
+
+#### Texturing
+
+- ✨ [ArmorLab] (https://armorlab.org/) *(Windows, Mac, Linux)* (Have Photo to PBR and Prompt to PBR)
+
+#### Meshes
+
+- ⭐️[RealityCapture] https://www.capturingreality.com/
+
 ## Lightroom
 
 - ✨ [RawTherapee](https://www.rawtherapee.com) *(Windows, Mac, Linux)*
