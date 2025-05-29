@@ -214,6 +214,7 @@
 
 ### Editor
 
+- ✨ [PDF Arranger](https://github.com/pdfarranger/pdfarranger) *(Windows, Linux)*
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, Mac, Linux)*
 - ✨ [Inkscape](https:/inkscape.org) *(Windows, Mac, Linux)*
 - ✨ [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) *(Windows, Mac, Linux)*
