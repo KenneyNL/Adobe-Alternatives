@@ -266,10 +266,10 @@
 - ✨ [Tenacity](https://tenacityaudio.org) *(Windows, Linux)*
 - ✨ [Audacity](https://www.audacityteam.org) *(Windows, Mac, Linux)*
 - ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
-- ⭐️ [Wavosaur](https://fr.wavosaur.com/) *(Windows)*
+- ⭐️ (💵) [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
+- ⭐️ [Wavosaur](https://fr.wavosaur.com) *(Windows)*
 - 💵 [GoldWave](http://www.goldwave.com) *(Windows, Mac, Linux)*
-- 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
+- 💵 [iZotope RX](https://www.izotope.com/shop/rx.html) *(Windows, Mac)*
 - 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge) *(Windows, Mac)*
 - 💵 [Fission](https://rogueamoeba.com/fission) *(Mac)*
 
@@ -302,9 +302,9 @@
 - ✨ [Natron](https://natrongithub.github.io) *(Windows, Mac, Linux)*
 - ✨ [Bforartists](https://www.bforartists.de) *(Windows, Mac, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
+- ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
-- ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, Mac, Linux)*
+- ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion graphics tools) *(Windows, Mac, Linux)*
 - 💵 (⌛, 🔒) [Autograph](https://www.left-angle.com) *(Windows, Mac, Linux)*
 - 🔒 [Autodesk Flame](https://www.autodesk.co.uk/products/flame/overview?term=1-YEAR&tab=subscription) *(Windows, Mac, Linux)*
 - 🔒 [Autodesk Maya](https://www.autodesk.co.uk/products/maya/overview?term=1-YEAR&tab=subscription) *(Windows, Mac, Linux)*
