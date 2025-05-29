@@ -52,7 +52,7 @@
 - ✨ [Krita](https://krita.org) *(Windows, Mac, Linux, Android)*
 - ✨ [MyPaint](https://mypaint.app) *(Windows, Mac, Linux)*
 - ✨ [Tux Paint](https://tuxpaint.org/) *(Windows, Mac, Linux)*
-- ⭐️ [IbisPaint](https://ibispaint.com) *(Windows, Android, iOS)*
+- ⭐️ (🔒) [IbisPaint](https://ibispaint.com) *(Windows, Android, iOS)*
 - ⭐️ (💵) [Sketchbook](https://www.sketchbook.com) *(Windows, Mac, Android, iOS)*
 - ⭐️ [FireAlpaca](https://firealpaca.com) *(Windows, Mac, Linux)*
 - ⭐️ [MediBang](https://medibangpaint.com) *(Windows, Mac, Android)*
