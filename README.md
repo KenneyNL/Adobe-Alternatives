@@ -33,7 +33,7 @@
 ### Photography
 
 - ✨ [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) *(Windows, Mac, Linux)* (Don't move the gimprc file)
-- ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)* (If you're planning on bashing GIMP, just move on. Nobody cares)
+- ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)*
 - ✨️ [Pinta](https://www.pinta-project.com) *(Windows, Mac, Linux)*
 - ✨ [digiKam] (https://www.digikam.org/) *(Windows, Mac, Linux)*
 
