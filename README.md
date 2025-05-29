@@ -206,10 +206,11 @@
 - ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
 - ⭐️ [wide.video](https://wide.video) *(Browser)*
 - 💵 (or 🔒) [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro)  *(Windows)*
-- 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(Mac, iOS)*
+- 💵 (or 🔒) [Filmora](https://filmora.wondershare.com) *(Windows, Mac, Android, iOS)*
 - 🔒 [AVID Media Composer](https://www.avid.com/media-composer) *(Windows, Mac)*
+- 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(Mac, iOS)*
 - 🔒 [Kapwing](https://www.kapwing.com) *(Browser)*
-- 🔒 [CapCut](https://www.capcut.com) *(Browser, Windows, Android, iOS)*
+- 🔒 [CapCut](https://www.capcut.com) *(Browser, Windows, Mac, Android, iOS)*
 
 ## Acrobat
 
@@ -221,8 +222,10 @@
 - ✨ [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
+- 💵 (or 🔒) [PDFelement](https://pdf.wondershare.com) *(Browser, Windows, Mac, Android, iOS)*
 - 💵 (or 🔒) [PDF Expert](https://pdfexpert.com) *(Mac, iOS)*
 - 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
+- 🔒 [WPS Office](https://www.wps.com/) *(Browser, Windows, Mac, Android, iOS)*
 
 ### Reader
 
@@ -230,6 +233,7 @@
 - ✨ [Sioyek](https://sioyek.info) *(Windows, Mac, Linux)*
 - ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
 - ✨ [Okular](https://okular.kde.org/) *(Windows, Linux)*
+- ⭐️ [Wondershare PDF Reader](https://pdf.wondershare.com/pdf-reader.html) *(Windows)*
 
 ## Bridge
 
