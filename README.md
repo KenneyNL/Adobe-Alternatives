@@ -287,7 +287,7 @@
 - 💵 [Steinberg Wavelab](https://www.steinberg.net/wavelab) *(Windows, Mac)*
 - 💵 [Steinberg Cubase](https://www.steinberg.net/cubase) *(Windows, Mac)*
 - 💵 [Steinberg Nuendo](https://www.steinberg.net/nuendo) *(Windows, Mac)*
-- 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(Windows, Mac)*
+- 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(Windows, Mac, Linux)*
 - 🔒 [Cakewalk Next](https://www.cakewalk.com) *(Windows)*
 - 🔒 [Cakewalk Sonar](https://www.bandlab.com) *(Windows)*
 
