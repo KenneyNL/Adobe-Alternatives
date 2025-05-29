@@ -210,6 +210,7 @@
 
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, Mac, Linux)*
 - ✨ [Inkscape](https:/inkscape.org) *(Windows, Mac, Linux)*
+- ✨ [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 💵 (or 🔒) [PDF Expert](https://pdfexpert.com) *(Mac, iOS)*
