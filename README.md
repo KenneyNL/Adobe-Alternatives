@@ -146,12 +146,14 @@
 - ✨ [ArmorLab] (https://armorlab.org/) *(Windows, Mac, Linux)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
 - ⭐️ [InstaMAT](https://instamaterial.com) *(Windows, Mac)*
+- ⭐️ [PixaFlux](http://pixaflux.com/index.html) *(Windows, Mac)*
 
 ### Painter
 
 - ✨ [UcuPaint](https://extensions.blender.org/add-ons/ucupaint/) *(Blender Extension)*
 - ✨ (💵) [ArmorPaint](https://armorpaint.org) *(Windows, Mac, Linux, iOS, Android)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
+- ⭐️ [InstaMAT](https://instamaterial.com) *(Windows, Mac)*
 - 💵 [3DCoat](https://3dcoat.com) *(Windows, Mac, Linux)*
 - 💵 (or 🔒) [Marmoset Toolbag](https://marmoset.co/toolbag) *(Windows, Mac)*
 
