@@ -228,7 +228,7 @@
 - 🔒 [WPS Office](https://www.wps.com/) *(Browser, Windows, Mac, Android, iOS)*
 
 ### Reader
-
+- ✨ [EmbedPDF](https://www.embedpdf.com) *(Browser)*
 - ✨ [Zathura](https://pwmt.org/projects/zathura) *(Linux)*
 - ✨ [Sioyek](https://sioyek.info) *(Windows, Mac, Linux)*
 - ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
