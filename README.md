@@ -288,8 +288,8 @@
 - 💵 [Steinberg Cubase](https://www.steinberg.net/cubase) *(Windows, macOS)*
 - 💵 [Steinberg Nuendo](https://www.steinberg.net/nuendo) *(Windows, macOS)*
 - 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(Windows, macOS, Linux)*
-- 🔒 [Cakewalk Next](https://www.cakewalk.com) *(Windows)*
-- 🔒 [Cakewalk Sonar](https://www.bandlab.com) *(Windows)*
+- 🔒 [Cakewalk Next](https://www.cakewalk.com/next) *(Windows)*
+- 🔒 [Cakewalk Sonar](https://www.cakewalk.com/sonar) *(Windows)*
 
 ## After Effects
 
