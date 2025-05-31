@@ -175,7 +175,7 @@
 - ✨ [digiKam](https://www.digikam.org) *(Windows, macOS, Linux)*
 - 💵 (or 🔒) [Darkroom](https://darkroom.co) *(macOS, iOS)*
 - 💵 [Photomator](https://www.pixelmator.com/photomator/) *(macOS, iOS)*
-- 💵 [On1](https://www.on1.com) *(Windows, macOS, Linux)*
+- 💵 [ON1 Photo RAW](https://www.on1.com) *(Windows, macOS)*
 - 💵 [FastRawViewer](https://www.fastrawviewer.com) *(Windows, macOS)*
 - 💵 [Capture One](https://www.captureone.com) *(Windows, macOS)*
 - 💵 [Dx0 PhotoLab](https://www.dxo.com/dxo-photolab) *(Windows, macOS)*
