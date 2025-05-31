@@ -120,10 +120,10 @@
 - ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
 - 💵 [CACANi](https://cacani.sg) *(Windows)*
 - 💵 [TVPaint](https://tvpaint.com) *(Windows, Mac, Linux, Android)*
-- 💵 [Toon Boom](https://www.toonboom.com) *(Windows, Mac, Linux)*
 - 💵 [Clip Studio Paint](https://www.clipstudio.net) *(Windows, Mac)*
 - 💵 [Moho](https://moho.lostmarble.com) *(Windows, Mac)*
 - 💵 [Tumult Hype](https://tumult.com/hype) *(Mac)*
+- 🔒 [Toon Boom](https://www.toonboom.com) *(Windows, Mac, Linux)*
 
 ### Honorable mentions
 
