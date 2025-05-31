@@ -278,6 +278,7 @@
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband) *(macOS)*
 - ⭐️ (💵) [Tracktion](https://www.tracktion.com) *(Windows, macOS, Linux)*
 - ⭐️ (🔒) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, macOS)*
+- 💵 [Mixbus](https://harrisonaudio.com/products/mixbus-10) *(Windows, macOS, Linux)*
 - 💵 [Reaper](https://www.reaper.fm) *(Windows, macOS, Linux)*
 - 💵 [Logic Pro](https://www.apple.com/logic-pro) *(macOS, iOS)*
 - 💵 [Ableton Live](https://www.ableton.com/en/live) *(Windows, macOS)*
