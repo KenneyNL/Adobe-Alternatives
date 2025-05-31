@@ -156,6 +156,7 @@
 - ⭐️ [InstaMAT](https://instamaterial.com) *(Windows, macOS)*
 - 💵 [3DCoat](https://3dcoat.com) *(Windows, macOS, Linux)*
 - 💵 (or 🔒) [Marmoset Toolbag](https://marmoset.co/toolbag) *(Windows, macOS)*
+- 🔒 [Mari](https://www.foundry.com/products/mari) *(Windows, Linux)*
 
 ### Sampler
 
