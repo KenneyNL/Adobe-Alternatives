@@ -228,6 +228,9 @@
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, macOS, Linux)*
 - ✨ [Inkscape](https:/inkscape.org) *(Windows, macOS, Linux)*
 - ✨ [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) *(Windows, macOS, Linux)*
+- ✨ [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) *(Windows, macOS, Linux)*
+- ✨ [Scribus](https://www.scribus.net/) *(Windows, macOS, Linux)*
+- ✨ [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) *(Windows, macOS, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 💵 (or 🔒) [PDF Expert](https://pdfexpert.com) *(macOS, iOS)*
