@@ -204,9 +204,16 @@
 - ✨ [Kdenlive](https://kdenlive.org) *(Windows, macOS, Linux)*
 - ✨ [Shotcut](https://www.shotcut.org) *(Windows, macOS, Linux)*
 - ✨ [OpenShot](https://www.openshot.org) *(Windows, macOS, Linux)*
+- ✨ [AVIDemux](http://avidemux.sourceforge.net/) *(Windows, macOS, Linux)*
+- ✨ [VidCutter](https://github.com/ozmartian/vidcutter) *(Windows, macOS, Linux)
+- ✨ [LiVES](http://lives-video.com/) *(macOS, Linux)*
+- ✨ [VirtualDub](https://www.virtualdub.org/) *(Windows)*
+- ✨ [Pitivi](https://www.pitivi.org/) *(Linux)*
+- ✨ (💵) [Lightworks](https://lwks.com/) *(Windows, macOS, Linux)*
 - ⭐️ [PIKIMOV](https://pikimov.com/) *(Browser)*
-- ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, macOS, Linux)*
 - ⭐️ [wide.video](https://wide.video) *(Browser)*
+- ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, macOS, Linux)
+- ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, macOS, Linux)*
 - 💵 (or 🔒) [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro)  *(Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(macOS, iOS)*
 - 🔒 [AVID Media Composer](https://www.avid.com/media-composer) *(Windows, macOS)*
