@@ -300,6 +300,7 @@
 - ✨ [Natron](https://natrongithub.github.io) *(Windows, macOS, Linux)*
 - ✨ [Bforartists](https://www.bforartists.de) *(Windows, macOS, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, macOS, Linux)*
+- ✨ [Gaffer](https://www.gafferhq.org) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [Fusion](https://www.blackmagicdesign.com/products/fusion) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, macOS, Linux)*
