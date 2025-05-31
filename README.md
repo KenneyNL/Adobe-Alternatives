@@ -305,6 +305,7 @@
 - 💵 (⌛🔒) [Autograph](https://www.left-angle.com) *(Windows, macOS, Linux)*
 - 🔒 [Autodesk Flame](https://www.autodesk.co.uk/products/flame/overview?term=1-YEAR&tab=subscription) *(Windows, macOS, Linux)*
 - 🔒 [Autodesk Maya](https://www.autodesk.co.uk/products/maya/overview?term=1-YEAR&tab=subscription) *(Windows, macOS, Linux)*
+- 🔒 [Nuke](https://www.foundry.com/products/nuke-family) *(Windows, macOS, Linux)*
 
 ### Motion graphics
 
