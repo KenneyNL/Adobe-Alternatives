@@ -199,6 +199,7 @@
 
 ## Premiere
 
+- ✨ [Blender](https://blender.org/) *(Windows, macOS, Linux)*
 - ✨ [Olive](https://olivevideoeditor.org) *(Windows, macOS, Linux)*
 - ✨ [Kdenlive](https://kdenlive.org) *(Windows, macOS, Linux)*
 - ✨ [Shotcut](https://www.shotcut.org) *(Windows, macOS, Linux)*
