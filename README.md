@@ -81,6 +81,7 @@
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 - ⭐️ [GraphicsGale](https://graphicsgale.com)  *(Windows)*
 - ⭐️ (or 💵 ) (👁️) [Aseprite](https://www.aseprite.org) *(Windows, macOS, Linux)*
+- ⭐️ (🔒) [dotpict](https://dotpict.net/) *(Android, iOS)*
 - 💵 [Pro Motion NG](https://www.cosmigo.com) *(Windows)*
 - 💵 [Lightcube](https://www.lightcube.art) *(Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com) *(Windows, macOS, Linux)*
