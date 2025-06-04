@@ -4,12 +4,11 @@
 
 **Legend:**
 
-- ✨ = Free and open-source
+- ✨ = Free and open-source (or source available)
 - ⭐️ = Free of charge
 - 💵 = Single purchase
 - 🔒 = Subscription for more functions
 - ⌛ = Free trial
-- 👁️ = Source-available but not open-source
 
 **Alternatives to:**
 
@@ -81,7 +80,7 @@
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(Windows, macOS)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 - ⭐️ [GraphicsGale](https://graphicsgale.com)  *(Windows)*
-- ⭐️ (or 💵 ) (👁️) [Aseprite](https://www.aseprite.org) *(Windows, macOS, Linux)*
+- ⭐️ (or 💵 ) [Aseprite](https://www.aseprite.org) *(Windows, macOS, Linux)*
 - ⭐️ (🔒) [dotpict](https://dotpict.net/) *(Android, iOS)*
 - 💵 [Pro Motion NG](https://www.cosmigo.com) *(Windows)*
 - 💵 [Lightcube](https://www.lightcube.art) *(Windows)*
@@ -164,11 +163,11 @@
 
 #### Texturing
 
-- ✨ [ArmorLab](https://armorlab.org/) *(Windows, macOS, Linux)* (Have Photo to PBR and Prompt to PBR)
+- ✨ [ArmorLab](https://armorlab.org/) *(Windows, macOS, Linux)*
 
 #### Meshes
 
-- ⭐️[RealityCapture] https://www.capturingreality.com/
+- ⭐️ [RealityCapture](https://www.capturingreality.com/) *(Windows)*
 
 ## Lightroom
 
@@ -207,14 +206,14 @@
 - ✨ [Shotcut](https://www.shotcut.org) *(Windows, macOS, Linux)*
 - ✨ [OpenShot](https://www.openshot.org) *(Windows, macOS, Linux)*
 - ✨ [AVIDemux](http://avidemux.sourceforge.net/) *(Windows, macOS, Linux)*
-- ✨ [VidCutter](https://github.com/ozmartian/vidcutter) *(Windows, macOS, Linux)
+- ✨ [VidCutter](https://github.com/ozmartian/vidcutter) *(Windows, macOS, Linux)*
 - ✨ [LiVES](http://lives-video.com/) *(macOS, Linux)*
 - ✨ [VirtualDub](https://www.virtualdub.org/) *(Windows)*
 - ✨ [Pitivi](https://www.pitivi.org/) *(Linux)*
 - ✨ (💵) [Lightworks](https://lwks.com/) *(Windows, macOS, Linux)*
 - ⭐️ [PIKIMOV](https://pikimov.com/) *(Browser)*
 - ⭐️ [wide.video](https://wide.video) *(Browser)*
-- ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, macOS, Linux)
+- ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, macOS, Linux)*
 - 💵 (or 🔒) [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro)  *(Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(macOS, iOS)*
