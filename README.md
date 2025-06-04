@@ -32,10 +32,10 @@
 
 ### Photography
 
-- ✨ [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) *(Windows, macOS, Linux)* (Don't move the gimprc file)
+- ✨ [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) *(Windows, macOS, Linux)*
 - ✨ [GIMP](https://www.gimp.org) *(Windows, macOS, Linux)*
 - ✨️ [Pinta](https://www.pinta-project.com) *(Windows, macOS, Linux)*
-- ✨ [digiKam] (https://www.digikam.org/) *(Windows, macOS, Linux)*
+- ✨ [digiKam](https://www.digikam.org/) *(Windows, macOS, Linux)*
 
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, macOS, Linux)*
