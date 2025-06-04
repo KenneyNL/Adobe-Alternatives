@@ -153,7 +153,7 @@
 ### Painter
 
 - ✨ [UcuPaint](https://extensions.blender.org/add-ons/ucupaint/) *(Blender Extension)*
-- ✨ (💵) [ArmorPaint](https://armorpaint.org) *(Windows, macOS, Linux, iOS, Android)*
+- ✨ (💵)[ArmorPaint](https://armorpaint.org) *(Windows, macOS, Linux, iOS, Android)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, macOS)*
 - ⭐️ [InstaMAT](https://instamaterial.com) *(Windows, macOS)*
 - 💵 [3DCoat](https://3dcoat.com) *(Windows, macOS, Linux)*
