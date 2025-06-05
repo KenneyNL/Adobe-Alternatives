@@ -76,11 +76,11 @@
 - ✨ [GrafX2](http://grafx2.chez.com) *(Windows, Linux, Android)*
 - ✨ [Pixilart](https://www.pixilart.com/draw) *(Browser, Android, iOS)*
 - ✨ [Piskel](https://www.piskelapp.com) *(Browser, Windows, macOS, Linux)*
+- ✨ (or 💵) [Aseprite](https://www.aseprite.org) *(Windows, macOS, Linux)*
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor) *(Browser)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(Windows, macOS)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 - ⭐️ [GraphicsGale](https://graphicsgale.com)  *(Windows)*
-- ⭐️ (or 💵 ) [Aseprite](https://www.aseprite.org) *(Windows, macOS, Linux)*
 - ⭐️ (🔒) [dotpict](https://dotpict.net/) *(Android, iOS)*
 - 💵 [Pro Motion NG](https://www.cosmigo.com) *(Windows)*
 - 💵 [Lightcube](https://www.lightcube.art) *(Windows)*
