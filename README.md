@@ -332,7 +332,7 @@
 - ✨ [Tooll3](https://tooll.io/) *(Windows)*
 - ✨ [Bforartists](https://www.bforartists.de) *(Windows, macOS, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, macOS, Linux)*
-- ✨ [Friction](https://friction.graphics) *(Windows, Linux)*
+- ✨ [Friction](https://friction.graphics) *(Windows, macOS, Linux)*
 - ✨ [AstroFox](https://astrofox.io) *(Windows, macOS, Linux)*
 - ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(macOS, iOS)*
 - ⭐️ (🔒) [Cavalry](https://cavalry.scenegroup.co) *(Windows, macOS)*
