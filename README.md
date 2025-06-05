@@ -259,7 +259,7 @@
 - ✨ [NetBeans](https://netbeans.apache.org) *(Windows, macOS, Linux)*
 - ✨ [VSCodium](https://vscodium.com) *(Windows, macOS, Linux)*
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com) *(Windows, macOS, Linux)*
-- ⭐️ [PageFabric](https://pagefabric-app.com) *(Windows)*
+- ⭐️ [PageFabric]((https://apps.microsoft.com/detail/9p170799pf3q?hl=en-us&gl=US) *(Windows)*
 - 💵 (🔒) [Nova](https://nova.app) *(macOS)*
 - 🔒 [WebStorm](https://www.jetbrains.com/webstorm) *(Windows, macOS, Linux)*
 - 🔒 [PHPStorm](https://www.jetbrains.com/phpstorm) *(Windows, macOS, Linux)*
