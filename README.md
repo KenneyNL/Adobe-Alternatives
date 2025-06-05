@@ -229,7 +229,7 @@
 - ✨ [PDF Arranger](https://github.com/pdfarranger/pdfarranger) *(Windows, Linux)*
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, macOS, Linux)*
 - ✨ [Inkscape](https:/inkscape.org) *(Windows, macOS, Linux)*
-- ✨ [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) *(Windows, macOS, Linux)*
+- ✨ [Stirling-PDF](https://www.stirlingpdf.com/) *(Windows, macOS, Linux)*
 - ✨ [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) *(Windows, macOS, Linux)*
 - ✨ [Scribus](https://www.scribus.net/) *(Windows, macOS, Linux)*
 - ✨ [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) *(Windows, macOS, Linux)*
