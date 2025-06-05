@@ -167,6 +167,7 @@
 
 #### Meshes
 
+- ✨ [Meshroom](https://alicevision.org/) *(Windows, Linux)*
 - ⭐️ [RealityCapture](https://www.capturingreality.com/) *(Windows)*
 
 ## Lightroom
@@ -254,6 +255,7 @@
 
 ## Dreamweaver
 
+- ✨ [Pulsar](https://pulsar-edit.dev) *(Windows, macOS, Linux)*
 - ✨ [NetBeans](https://netbeans.apache.org) *(Windows, macOS, Linux)*
 - ✨ [VSCodium](https://vscodium.com) *(Windows, macOS, Linux)*
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com) *(Windows, macOS, Linux)*
@@ -326,6 +328,8 @@
 
 ### Motion graphics
 
+- ✨ [Cables](https://cables.gl/) *(Browser, Windows, macOS, Linux)*
+- ✨ [Tooll3](https://tooll.io/) *(Windows)*
 - ✨ [Bforartists](https://www.bforartists.de) *(Windows, macOS, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, macOS, Linux)*
 - ✨ [Friction](https://friction.graphics) *(Windows, Linux)*
