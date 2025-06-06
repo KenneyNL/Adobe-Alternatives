@@ -172,7 +172,7 @@
 
 ## Lightroom
 
-- ✨ [ART](https://bitbucket.org/agriggio/art/wiki/Home) *(Windows, macOS, Linux)*
+- ✨ [ART](https://art.pixls.us/) *(Windows, macOS, Linux)*
 - ✨ [RawTherapee](https://www.rawtherapee.com) *(Windows, macOS, Linux)*
 - ✨ [Darktable](https://www.darktable.org) *(Windows, macOS, Linux)*
 - ✨ [digiKam](https://www.digikam.org) *(Windows, macOS, Linux)*
@@ -229,7 +229,7 @@
 - ✨ [PDF Arranger](https://github.com/pdfarranger/pdfarranger) *(Windows, Linux)*
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, macOS, Linux)*
 - ✨ [Inkscape](https:/inkscape.org) *(Windows, macOS, Linux)*
-- ✨ [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) *(Windows, macOS, Linux)*
+- ✨ [Stirling-PDF](https://www.stirlingpdf.com/) *(Windows, macOS, Linux)*
 - ✨ [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) *(Windows, macOS, Linux)*
 - ✨ [Scribus](https://www.scribus.net/) *(Windows, macOS, Linux)*
 - ✨ [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) *(Windows, macOS, Linux)*
@@ -259,7 +259,7 @@
 - ✨ [NetBeans](https://netbeans.apache.org) *(Windows, macOS, Linux)*
 - ✨ [VSCodium](https://vscodium.com) *(Windows, macOS, Linux)*
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com) *(Windows, macOS, Linux)*
-- ⭐️ [PageFabric](https://pagefabric-app.com) *(Windows)*
+- ⭐️ [PageFabric]((https://apps.microsoft.com/detail/9p170799pf3q?hl=en-us&gl=US) *(Windows)*
 - 💵 (🔒) [Nova](https://nova.app) *(macOS)*
 - 🔒 [WebStorm](https://www.jetbrains.com/webstorm) *(Windows, macOS, Linux)*
 - 🔒 [PHPStorm](https://www.jetbrains.com/phpstorm) *(Windows, macOS, Linux)*
