@@ -319,7 +319,6 @@
 - ✨ [Gaffer](https://www.gafferhq.org) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [Fusion](https://www.blackmagicdesign.com/products/fusion) *(Windows, macOS, Linux)*
-- ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, macOS, Linux)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, macOS, Linux)*
 - 💵 (⌛🔒) [Autograph](https://www.left-angle.com) *(Windows, macOS, Linux)*
 - 🔒 [Autodesk Flame](https://www.autodesk.co.uk/products/flame/overview?term=1-YEAR&tab=subscription) *(Windows, macOS, Linux)*
