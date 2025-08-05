@@ -26,6 +26,7 @@
 - [ColdFusion](https://github.com/KenneyNL/Adobe-Alternatives#ColdFusion)
 - [Audition](https://github.com/KenneyNL/Adobe-Alternatives#audition)
 - [After Effects](https://github.com/KenneyNL/Adobe-Alternatives#after-effects)
+- [Mixamo](https://github.com/KenneyNL/Adobe-Alternatives#mixamo)
 
 ## Photoshop
 
@@ -339,3 +340,7 @@
 - 💵 (⌛🔒) [Autograph](https://www.left-angle.com) *(Windows, macOS, Linux)*
 - 🔒 [Rive](https://rive.app) *(Browser, Windows, macOS)*
 - 🔒 [Jitter](https://jitter.video) *(Browser)*
+
+## Mixamo
+
+- ✨ [Mesh2Motion](https://mesh2motion.org) *(Browser)*
