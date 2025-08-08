@@ -139,6 +139,7 @@
 - ✨ [Laidout](https://laidout.org) *(Linux)*
 - 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher) *(Windows, macOS, iOS)*
 - 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, macOS)*
+- 💵 [Swift Publisher](https://www.swiftpublisher.com/) *(macOS)*
 
 ## Substance
 
