@@ -247,6 +247,7 @@
 - ✨ [Okular](https://okular.kde.org/) *(Windows, Linux)*
 - ✨ [Evince](https://wiki.gnome.org/Apps/Evince) *(Windows, Linux)*
 - ✨ [XPDFReader](https://www.xpdfreader.com/index.html) *(Windows, Linux)*
+- ⭐️ (🔒) [WPS PDF](wps.com/office/pdf) *(Windows, macOS, Linux)*
 
 ## Bridge
 
