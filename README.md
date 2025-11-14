@@ -173,7 +173,7 @@
 
 ## Lightroom
 
-- ✨ [ART](https://art.pixls.us/) *(Windows, macOS, Linux)*
+- ✨ [ART](https://artraweditor.github.io/) *(Windows, macOS, Linux)*
 - ✨ [RawTherapee](https://www.rawtherapee.com) *(Windows, macOS, Linux)*
 - ✨ [Darktable](https://www.darktable.org) *(Windows, macOS, Linux)*
 - ✨ [digiKam](https://www.digikam.org) *(Windows, macOS, Linux)*
