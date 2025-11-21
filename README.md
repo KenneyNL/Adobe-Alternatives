@@ -41,9 +41,9 @@
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, macOS, Linux)*
 - ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, macOS, Linux)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
+- ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under deveopment))*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(macOS)*
 - 💵 [PaintShop Pro](https://www.paintshoppro.com) *(Windows)*
-- 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo) *(Windows, macOS, iOS)*
 - 💵 [Photoline](https://www.pl32.com) *(Windows, macOS)*
 - 💵 [Acorn](https://flyingmeat.com/acorn) *(macOS)*
 
@@ -95,8 +95,8 @@
 - ✨ [Inkscape](https://inkscape.org) *(Windows, macOS, Linux)*
 - ✨ [Graphite](https://graphite.rs) *(Browser now / Windows, macOS, Linux apps in future)*
 - ⭐️ (🔒) [Linearity Curve](https://www.linearity.io/curve) *(macOS, iOS)*
+- ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under deveopment))*
 - 💵 (⌛) [Boxy SVG](https://boxy-svg.com) *(Browser)*
-- 💵 [CorelDRAW](https://www.coreldraw.com) *(Windows, macOS)*
 - 💵 [Affinity Designer](https://affinity.serif.com) *(Windows, macOS, iOS)*
 - 💵 [Xara Designer](https://www.xara.com/designerpro-plus) *(Windows)*
 - 🔒 [Corel Vector](https://app.corelvector.com) *(Browser)*
@@ -137,7 +137,7 @@
 
 - ✨ [Scribus](https://www.scribus.net) *(Windows, macOS, Linux)*
 - ✨ [Laidout](https://laidout.org) *(Linux)*
-- 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher) *(Windows, macOS, iOS)*
+- ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under deveopment))*
 - 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, macOS)*
 
 ## Substance
