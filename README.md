@@ -186,6 +186,7 @@
 - 💵 [Luminar Neo](https://skylum.com/luminar) *(Windows, macOS)*
 - 💵 [Aurora HDR](https://skylum.com/aurora-photo-editor) *(Windows, macOS)*
 - 💵 [Tonfotos](https://tonfotos.com/) *(Windows, Linux, macOS)*
+- 💵 [Zoner Studio](https://www.zoner.com/) *(Windows)*
 
 ## XD
 
