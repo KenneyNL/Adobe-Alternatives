@@ -41,7 +41,7 @@
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, macOS, Linux)*
 - ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, macOS, Linux)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
-- ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under deveopment))*
+- ⭐️ (🔒) [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(macOS)*
 - 💵 [PaintShop Pro](https://www.paintshoppro.com) *(Windows)*
 - 💵 [Photoline](https://www.pl32.com) *(Windows, macOS)*
