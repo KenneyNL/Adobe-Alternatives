@@ -213,7 +213,7 @@
 - ✨ [LiVES](http://lives-video.com/) *(macOS, Linux)*
 - ✨ [VirtualDub](https://www.virtualdub.org/) *(Windows)*
 - ✨ [Pitivi](https://www.pitivi.org/) *(Linux)*
-- ✨ (💵) [Lightworks](https://lwks.com/) *(Windows, macOS, Linux)*
+- ⭐️ (💵) [Lightworks](https://lwks.com/) *(Windows, macOS, Linux)*
 - ⭐️ [PIKIMOV](https://pikimov.com/) *(Browser)*
 - ⭐️ [wide.video](https://wide.video) *(Browser)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, macOS, Linux)*
