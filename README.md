@@ -245,7 +245,7 @@
 - ✨ [Zathura](https://pwmt.org/projects/zathura) *(Linux)*
 - ✨ [Sioyek](https://sioyek.info) *(Windows, macOS, Linux)*
 - ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
-- ✨ [Okular](https://okular.kde.org/) *(Windows, Linux)*
+- ✨ [Okular](https://okular.kde.org/) *(Windows, macOS, Linux)*
 - ✨ [Evince](https://wiki.gnome.org/Apps/Evince) *(Windows, Linux)*
 - ✨ [XPDFReader](https://www.xpdfreader.com/index.html) *(Windows, Linux)*
 
