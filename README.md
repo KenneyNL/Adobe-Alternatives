@@ -235,9 +235,12 @@
 - ✨ [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) *(Windows, macOS, Linux)*
 - ✨ [Scribus](https://www.scribus.net/) *(Windows, macOS, Linux)*
 - ✨ [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) *(Windows, macOS, Linux)*
+- ⭐️ (💵, 🔒) [Foxit](https://www.foxit.com) *(Windows, macOS, Android, iOS, Browser)*
+- ⭐️ [PDFgear](https://www.pdf24.org) *(Windows, macOS, Android, iOS)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 💵 (or 🔒) [PDF Expert](https://pdfexpert.com) *(macOS, iOS)*
+- 🔒 [Bluebeam](https://www.bluebeam.com) *(Browser, Windows, Android, iOS)*
 - 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
 
 ### Reader
