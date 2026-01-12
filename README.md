@@ -177,6 +177,7 @@
 - ✨ [RawTherapee](https://www.rawtherapee.com) *(Windows, macOS, Linux)*
 - ✨ [Darktable](https://www.darktable.org) *(Windows, macOS, Linux)*
 - ✨ [digiKam](https://www.digikam.org) *(Windows, macOS, Linux)*
+- ✨ [RapidRAW](https://www.getrapidraw.com/) *(Windows, macOS, Linux)*
 - 💵 (or 🔒) [Darkroom](https://darkroom.co) *(macOS, iOS)*
 - 💵 [Photomator](https://www.pixelmator.com/photomator/) *(macOS, iOS)*
 - 💵 [ON1 Photo RAW](https://www.on1.com) *(Windows, macOS)*
