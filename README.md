@@ -46,6 +46,10 @@
 - 💵 [PaintShop Pro](https://www.paintshoppro.com) *(Windows)*
 - 💵 [Photoline](https://www.pl32.com) *(Windows, macOS)*
 - 💵 [Acorn](https://flyingmeat.com/acorn) *(macOS)*
+- ✨ [Glimpse Image Editor](https://glimpse-editor.org/) *(Windows, macOS, Linux)*
+- ⭐️ [FotoSketcher](http://www.fotosketcher.com/) *(Windows)*
+- ⭐️ [PhotoDemon](https://photodemon.org/) *(Windows)*
+- ⭐️ [PhotoScape](http://xequte.com/photoscape/) *(Windows)*
 
 ### Painting
 
@@ -68,6 +72,9 @@
 - 💵 [Infinite Studio](https://www.infinitestudio.art) *(Android, iOS)*
 - 💵 [Realistic Paint Studio](https://realisticpaint.com) *(Windows, macOS, iOS)*
 - 💵 [ArtRage](https://www.artrage.com/artrage) *(Windows, macOS, Android, iOS)*
+- ⭐️ [Chunky Pixel](https://chunkypixel.com/) *(macOS, iOS, Android)*
+- ⭐️ [Assembly](https://assembly.app/) *(iOS)*
+- 💵 [HeavyPaint](https://heavypaint.com/) *(Browser, Windows, macOS, Linux)*
 
 ### Pixel art
 
@@ -87,6 +94,9 @@
 - 💵 [Lightcube](https://www.lightcube.art) *(Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com) *(Windows, macOS, Linux)*
 - 💵 [Pixquare](https://www.pixquare.art) *(macOS, iOS)*
+- ✨ [Tilemancer](https://voxelator.com/tilemancer/) *(Windows)*
+- ⭐️ [Make 8-bit Art](https://make8bitart.com/) *(Browser)*
+- ⭐️ [JSPaint](https://jspaint.app/) *(Browser)*
 
 ## Illustrator
 
@@ -100,6 +110,9 @@
 - 💵 [Affinity Designer](https://affinity.serif.com) *(Windows, macOS, iOS)*
 - 💵 [Xara Designer](https://www.xara.com/designerpro-plus) *(Windows)*
 - 🔒 [Corel Vector](https://app.corelvector.com) *(Browser)*
+- ✨ [Method Draw](https://editor.method.ac/) *(Browser)*
+- ✨ [Vectr](https://vectr.com/) *(Browser, Windows, macOS, Linux)*
+- ⭐️ [Photopea](https://www.photopea.com/) *(Browser)* (has vector capabilities)
 
 ### Live trace
 
@@ -126,6 +139,8 @@
 - 💵 [Clip Studio Paint](https://www.clipstudio.net) *(Windows, macOS)*
 - 💵 [Moho](https://moho.lostmarble.com) *(Windows, macOS)*
 - 💵 [Tumult Hype](https://tumult.com/hype) *(macOS)*
+- ✨ [Enve](https://maurycyliebner.github.io/) *(Windows, macOS, Linux)*
+- ⭐️ [Stretchly](https://stretchly.netlify.app/) *(Browser)*
 
 ### Honorable mentions
 
@@ -139,6 +154,8 @@
 - ✨ [Laidout](https://laidout.org) *(Linux)*
 - ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under deveopment))*
 - 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, macOS)*
+- ✨ [Publii](https://getpublii.com/) *(Windows, macOS, Linux)*
+- ⭐️ [Canva](https://www.canva.com/) *(Browser, iOS, Android)*
 
 ## Substance
 
@@ -188,6 +205,9 @@
 - 💵 [Aurora HDR](https://skylum.com/aurora-photo-editor) *(Windows, macOS)*
 - 💵 [Tonfotos](https://tonfotos.com/) *(Windows, Linux, macOS)*
 - 💵 [Zoner Studio](https://www.zoner.com/) *(Windows)*
+- ✨ [Filmulator](https://filmulator.org/) *(Windows, macOS, Linux)*
+- ⭐️ [PhotoFlow](https://photoflow.github.io/) *(Windows, macOS, Linux)*
+- ⭐️ [Polarr](https://www.polarr.com/) *(Browser, Windows, macOS, iOS, Android)*
 
 ## XD
 
@@ -201,6 +221,8 @@
 - 💵 [Axure RP](https://www.axure.com) *(Windows, macOS)*
 - 💵 [Principle](https://principleformac.com) *(macOS)*
 - 🔒 [Framer](https://www.framer.com) *(Windows, macOS, Linux)*
+- ✨ [Violet](https://violet.io/) *(Browser)*
+- ⭐️ [Miro](https://miro.com/) *(Browser, Windows, macOS, iOS, Android)*
 
 ## Premiere
 
@@ -224,6 +246,8 @@
 - 🔒 [AVID Media Composer](https://www.avid.com/media-composer) *(Windows, macOS)*
 - 🔒 [Kapwing](https://www.kapwing.com) *(Browser)*
 - 🔒 [CapCut](https://www.capcut.com) *(Browser, Windows, Android, iOS)*
+- ⭐️ [VideoProc Converter](https://www.videoproc.com/) *(Windows, macOS)*
+- ⭐️ [Shortcut](https://shotcut.org/) *(Windows, macOS, Linux)*
 
 ## Acrobat
 
