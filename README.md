@@ -97,7 +97,6 @@
 - ⭐️ (🔒) [Linearity Curve](https://www.linearity.io/curve) *(macOS, iOS)*
 - ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under deveopment))*
 - 💵 (⌛) [Boxy SVG](https://boxy-svg.com) *(Browser)*
-- 💵 [Affinity Designer](https://affinity.serif.com) *(Windows, macOS, iOS)*
 - 💵 [Xara Designer](https://www.xara.com/designerpro-plus) *(Windows)*
 - 🔒 [Corel Vector](https://app.corelvector.com) *(Browser)*
 
