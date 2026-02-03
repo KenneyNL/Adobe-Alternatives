@@ -140,6 +140,7 @@
 - ✨ [Laidout](https://laidout.org) *(Linux)*
 - ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under deveopment))*
 - 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, macOS)*
+- 💵 [Swift Publisher](https://www.swiftpublisher.com/) *(macOS)*
 
 ## Substance
 
