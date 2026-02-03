@@ -12,21 +12,21 @@
 
 **Alternatives to:**
 
-- [Photoshop](https://github.com/KenneyNL/Adobe-Alternatives#photoshop)
-- [Illustrator](https://github.com/KenneyNL/Adobe-Alternatives#illustrator)
-- [Animate](https://github.com/KenneyNL/Adobe-Alternatives#animate)
-- [InDesign](https://github.com/KenneyNL/Adobe-Alternatives#indesign)
-- [Substance](https://github.com/KenneyNL/Adobe-Alternatives#substance)
-- [Lightroom](https://github.com/KenneyNL/Adobe-Alternatives#lightroom)
-- [XD](https://github.com/KenneyNL/Adobe-Alternatives#xd)
-- [Premiere](https://github.com/KenneyNL/Adobe-Alternatives#premiere)
-- [Acrobat](https://github.com/KenneyNL/Adobe-Alternatives#acrobat)
-- [Bridge](https://github.com/KenneyNL/Adobe-Alternatives#bridge)
-- [Dreamweaver](https://github.com/KenneyNL/Adobe-Alternatives#dreamweaver)
-- [ColdFusion](https://github.com/KenneyNL/Adobe-Alternatives#ColdFusion)
-- [Audition](https://github.com/KenneyNL/Adobe-Alternatives#audition)
-- [After Effects](https://github.com/KenneyNL/Adobe-Alternatives#after-effects)
-- [Mixamo](https://github.com/KenneyNL/Adobe-Alternatives#mixamo)
+- [Photoshop](#photoshop)
+- [Illustrator](#illustrator)
+- [Animate](#animate)
+- [InDesign](#indesign)
+- [Substance](#substance)
+- [Lightroom](#lightroom)
+- [XD](#xd)
+- [Premiere](#premiere)
+- [Acrobat](#acrobat)
+- [Bridge](#bridge)
+- [Dreamweaver](#dreamweaver)
+- [ColdFusion](#coldfusion)
+- [Audition](#audition)
+- [After Effects](#after-effects)
+- [Mixamo](#mixamo)
 
 ## Photoshop
 
@@ -95,7 +95,7 @@
 - ✨ [Inkscape](https://inkscape.org) *(Windows, macOS, Linux)*
 - ✨ [Graphite](https://graphite.rs) *(Browser now / Windows, macOS, Linux apps in future)*
 - ⭐️ (🔒) [Linearity Curve](https://www.linearity.io/curve) *(macOS, iOS)*
-- ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under deveopment))*
+- ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
 - 💵 (⌛) [Boxy SVG](https://boxy-svg.com) *(Browser)*
 - 💵 [Affinity Designer](https://affinity.serif.com) *(Windows, macOS, iOS)*
 - 💵 [Xara Designer](https://www.xara.com/designerpro-plus) *(Windows)*
