@@ -23,6 +23,7 @@ jobs:
             --no-progress
             --exclude-all-private
             --include-verbatim --include-wikilinks --include-fragments
+            --remap 'https://apps.apple.com/(.*) https://apps.apple.com/us/$1'
             README.md
 
 #            --accept '100..=103,200..=299,403'
