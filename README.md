@@ -264,8 +264,8 @@
 - ✨ [VSCodium](https://vscodium.com) *(Windows, macOS, Linux)*
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com) *(Windows, macOS, Linux)*
 - ⭐️ [PageFabric](https://apps.microsoft.com/detail/9p170799pf3q?hl=en-us&gl=US) *(Windows)*
+- ⭐️ (🔒) [WebStorm](https://www.jetbrains.com/webstorm) *(Windows, macOS, Linux)*
 - 💵 (🔒) [Nova](https://nova.app) *(macOS)*
-- 🔒 [WebStorm](https://www.jetbrains.com/webstorm) *(Windows, macOS, Linux)*
 - 🔒 [PHPStorm](https://www.jetbrains.com/phpstorm) *(Windows, macOS, Linux)*
 
 ## Media Encoder
