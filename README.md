@@ -36,7 +36,7 @@
 - ✨ [GIMP](https://www.gimp.org) *(Windows, macOS, Linux)*
 - ✨️ [Pinta](https://www.pinta-project.com) *(Windows, macOS, Linux)*
 - ✨ [digiKam](https://www.digikam.org/) *(Windows, macOS, Linux)*
-- ✨ (💵) [Paint.NET](https://www.getpaint.net/) *(Windows)*
+- ⭐️ (💵) [Paint.NET](https://www.getpaint.net/) *(Windows)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, macOS, Linux)*
 - ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, macOS, Linux)*
@@ -72,7 +72,7 @@
 ### Pixel art
 
 - ✨ [Pixelorama](https://orama-interactive.itch.io/pixelorama) *(Browser, Windows, macOS, Linux, Raspberry Pi)*
-- ✨ [PixiEditor](https://pixieditor.net) *(Windows)*
+- ✨ [PixiEditor](https://pixieditor.net) *(Windowsm macOS, Linux)*
 - ✨ [LibreSprite](https://libresprite.github.io) *(Windows, macOS, Linux)*
 - ✨ [GrafX2](http://grafx2.chez.com) *(Windows, Linux, Android)*
 - ✨ [Piskel](https://www.piskelapp.com) *(Browser, Windows, macOS, Linux)*
