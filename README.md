@@ -112,6 +112,7 @@
 
 ### General
 
+- 🔒 [Rive](https://rive.app) *(Browser, Windows, macOS)*
 - ✨ [Tahoma2D](https://tahoma2d.org) *(Windows, macOS, Linux)*
 - ✨ [Bforartists](https://www.bforartists.de) *(Windows, macOS, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, macOS, Linux)*
@@ -345,7 +346,6 @@
 - ⭐️ (🔒) [Cavalry](https://cavalry.scenegroup.co) *(Windows, macOS)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(macOS, iOS)*
 - 💵 (⌛🔒) [Autograph](https://www.left-angle.com) *(Windows, macOS, Linux)*
-- 🔒 [Rive](https://rive.app) *(Browser, Windows, macOS)*
 - 🔒 [Jitter](https://jitter.video) *(Browser)*
 
 ## Mixamo
