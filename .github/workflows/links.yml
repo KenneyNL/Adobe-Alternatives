@@ -1,0 +1,40 @@
+name: Links
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 07 * * 6"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+#    permissions:
+#      issues: write                # required for peter-evans/create-issue-from-file
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@a8c4c7cb88f0c7386610c35eb25108e448569cb0  # for v2.7.0
+        with:
+          fail: false
+          args: |
+            --no-progress
+            --exclude-all-private
+            --include-verbatim --include-wikilinks --include-fragments
+            --remap 'https://apps.apple.com/(.*) https://apps.apple.com/us/$1'
+            README.md
+
+#            --accept '100..=103,200..=299,403'
+#            --root-dir ${{ github.workspace }}/public
+#            --exclude-path _old
+#            --suggest      # Suggest link replacements for broken links, using a web archive
+
+#      - name: Create Issue From File
+#        if: steps.lychee.outputs.exit_code != 0
+#        uses: peter-evans/create-issue-from-file@v5
+#        with:
+#          title: Link Checker Report
+#          content-filepath: ./lychee/out.md
+#          labels: report, automated issue
