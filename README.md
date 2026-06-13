@@ -244,6 +244,7 @@
 - 💵 (or 🔒) [PDF Expert](https://pdfexpert.com) *(macOS, iOS)*
 - 🔒 [Bluebeam](https://www.bluebeam.com) *(Browser, Windows, Android, iOS)*
 - 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
+- ⭐️ (🔒) [ConvertiZen](https://convertizen.netlify.app) *(Browser)*
 
 ### Reader
 
