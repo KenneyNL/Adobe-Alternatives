@@ -46,6 +46,7 @@
 - 💵 [PaintShop Pro](https://www.paintshoppro.com) *(Windows)*
 - 💵 [Photoline](https://www.pl32.com) *(Windows, macOS)*
 - 💵 [Acorn](https://flyingmeat.com/acorn) *(macOS)*
+- 💵 [onlineps101](https://onlineps101.org/) *(Browser)*
 
 ### Painting
 
