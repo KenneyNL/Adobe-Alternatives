@@ -23,6 +23,7 @@
 - [Acrobat](#acrobat)
 - [Bridge](#bridge)
 - [Dreamweaver](#dreamweaver)
+- [Media Encoder](#media-encoder)
 - [ColdFusion](#coldfusion)
 - [Audition](#audition)
 - [After Effects](#after-effects)
@@ -38,7 +39,6 @@
 - ✨ [digiKam](https://www.digikam.org/) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [Paint.NET](https://www.getpaint.net/) *(Windows)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
-- ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, macOS, Linux)*
 - ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, macOS, Linux)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
 - ⭐️ (🔒) [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
@@ -72,7 +72,7 @@
 ### Pixel art
 
 - ✨ [Pixelorama](https://orama-interactive.itch.io/pixelorama) *(Browser, Windows, macOS, Linux, Raspberry Pi)*
-- ✨ [PixiEditor](https://pixieditor.net) *(Windowsm macOS, Linux)*
+- ✨ [PixiEditor](https://pixieditor.net) *(Windows, macOS, Linux)*
 - ✨ [LibreSprite](https://libresprite.github.io) *(Windows, macOS, Linux)*
 - ✨ [GrafX2](http://grafx2.chez.com) *(Windows, Linux, Android)*
 - ✨ [Piskel](https://www.piskelapp.com) *(Browser, Windows, macOS, Linux)*
@@ -138,7 +138,7 @@
 
 - ✨ [Scribus](https://www.scribus.net) *(Windows, macOS, Linux)*
 - ✨ [Laidout](https://laidout.org) *(Linux)*
-- ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under deveopment))*
+- ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
 - 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, macOS)*
 - 💵 [Swift Publisher](https://www.swiftpublisher.com/) *(macOS)*
 
@@ -232,13 +232,13 @@
 
 - ✨ [PDF Arranger](https://github.com/pdfarranger/pdfarranger) *(Windows, Linux)*
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, macOS, Linux)*
-- ✨ [Inkscape](https:/inkscape.org) *(Windows, macOS, Linux)*
+- ✨ [Inkscape](https://inkscape.org) *(Windows, macOS, Linux)*
 - ✨ [Stirling-PDF](https://www.stirlingpdf.com/) *(Windows, macOS, Linux)*
 - ✨ [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) *(Windows, macOS, Linux)*
 - ✨ [Scribus](https://www.scribus.net/) *(Windows, macOS, Linux)*
 - ✨ [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) *(Windows, macOS, Linux)*
 - ⭐️ (💵, 🔒) [Foxit](https://www.foxit.com) *(Windows, macOS, Android, iOS, Browser)*
-- ⭐️ [PDFgear](https://www.pdf24.org) *(Windows, macOS, Android, iOS)*
+- ⭐️ [PDFgear](https://www.pdfgear.com/) *(Windows, macOS, Android, iOS)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 💵 (or 🔒) [PDF Expert](https://pdfexpert.com) *(macOS, iOS)*
@@ -325,7 +325,7 @@
 - ✨ [Bforartists](https://www.bforartists.de) *(Windows, macOS, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, macOS, Linux)*
 - ✨ [Gaffer](https://www.gafferhq.org) *(Windows, macOS, Linux)*
-- ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, macOS, Linux)*
+- ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/products/davinciresolve/fusion) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [Fusion](https://www.blackmagicdesign.com/products/fusion) *(Windows, macOS, Linux)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, macOS, Linux)*
 - 💵 (⌛🔒) [Autograph](https://www.left-angle.com) *(Windows, macOS, Linux)*
