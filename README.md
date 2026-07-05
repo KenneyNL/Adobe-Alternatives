@@ -336,7 +336,7 @@
 ### Motion graphics
 
 - ✨ [Cables](https://cables.gl/) *(Browser, Windows, macOS, Linux)*
-- ✨ [Tooll3](https://tooll.io/) *(Windows)*
+- ✨ [TiXL](https://tixl.app/) *(Windows)*
 - ✨ [Bforartists](https://www.bforartists.de) *(Windows, macOS, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, macOS, Linux)*
 - ✨ [Friction](https://friction.graphics) *(Windows, macOS, Linux)*
