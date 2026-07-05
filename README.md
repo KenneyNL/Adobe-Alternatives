@@ -288,7 +288,7 @@
 - ✨ [Audacity](https://www.audacityteam.org) *(Windows, macOS, Linux)*
 - ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, macOS, Linux)*
-- ⭐️ [Wavosaur](https://fr.wavosaur.com/) *(Windows)*
+- ⭐️ [Wavosaur](https://www.wavosaur.com/) *(Windows)*
 - 💵 [GoldWave](http://www.goldwave.com) *(Windows, macOS, Linux)*
 - 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, macOS)*
 - 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge) *(Windows, macOS)*
