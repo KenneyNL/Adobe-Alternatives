@@ -275,6 +275,7 @@
 ## Media Encoder
 
 - ✨ [Handbrake](https://handbrake.fr/) *(Windows, macOS, Linux)*
+- ⭐️ [Video Size Reducer](https://videosizereducer.org) *(Browser)*
 
 ## ColdFusion
 
