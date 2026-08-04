@@ -150,6 +150,7 @@
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, macOS)*
 - ⭐️ [InstaMAT](https://instamaterial.com) *(Windows, macOS)*
 - ⭐️ [PixaFlux](http://pixaflux.com/index.html) *(Windows, macOS)*
+- 💵 [Surface Labs](https://surfacelabs.app) *(Windows, macOS, iOS, Linux, Android)*
 
 ### Painter
 
