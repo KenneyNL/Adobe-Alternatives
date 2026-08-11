@@ -40,6 +40,7 @@
 - ⭐️ (💵) [Paint.NET](https://www.getpaint.net/) *(Windows)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, macOS, Linux)*
+- ⭐️ (💵, 🔒) [Peelaway](https://peelaway.io/editor?utm_source=kenneynl_adobe_alternatives&utm_medium=referral&utm_campaign=pve-044&utm_content=photoshop_photography) *(Browser)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
 - ⭐️ (🔒) [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(macOS)*
