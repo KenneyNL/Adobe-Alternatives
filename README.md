@@ -37,6 +37,7 @@
 - ✨ [GIMP](https://www.gimp.org) *(Windows, macOS, Linux)*
 - ✨️ [Pinta](https://www.pinta-project.com) *(Windows, macOS, Linux)*
 - ✨ [digiKam](https://www.digikam.org/) *(Windows, macOS, Linux)*
+- ✨ [ItsPaint](https://itspaintmac.com) *(macOS)*
 - ⭐️ (💵) [Paint.NET](https://www.getpaint.net/) *(Windows)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, macOS, Linux)*
