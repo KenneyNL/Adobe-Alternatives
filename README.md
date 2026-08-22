@@ -240,6 +240,7 @@
 - ⭐️ (💵, 🔒) [Foxit](https://www.foxit.com) *(Windows, macOS, Android, iOS, Browser)*
 - ⭐️ [PDFgear](https://www.pdfgear.com/) *(Windows, macOS, Android, iOS)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
+- ⭐️ [PDFHaul](https://www.pdfhaul.com) *(Browser, Android, iOS)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 💵 (or 🔒) [PDF Expert](https://pdfexpert.com) *(macOS, iOS)*
 - 🔒 [Bluebeam](https://www.bluebeam.com) *(Browser, Windows, Android, iOS)*
