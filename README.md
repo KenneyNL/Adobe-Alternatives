@@ -147,6 +147,7 @@
 ### Designer
 
 - ✨ [Material Maker](https://www.materialmaker.org) *(Windows, macOS, Linux)*
+- ✨ [ArmorPaint](https://armorpaint.org/) *Previously known as ArmorLab (Windows, macOS, Linux)*
 - ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, macOS)*
 - ⭐️ [InstaMAT](https://instamaterial.com) *(Windows, macOS)*
 - ⭐️ [PixaFlux](http://pixaflux.com/index.html) *(Windows, macOS)*
