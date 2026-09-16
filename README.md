@@ -238,6 +238,7 @@
 - ✨ [Scribus](https://www.scribus.net/) *(Windows, macOS, Linux)*
 - ✨ [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) *(Windows, macOS, Linux)*
 - ⭐️ (💵, 🔒) [Foxit](https://www.foxit.com) *(Windows, macOS, Android, iOS, Browser)*
+- ⭐️ (🔒) [EasyPDF](https://www.easypdf.fr) *(Browser)*
 - ⭐️ [PDFgear](https://www.pdfgear.com/) *(Windows, macOS, Android, iOS)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
