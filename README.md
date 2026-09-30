@@ -225,6 +225,7 @@
 - 🔒 [AVID Media Composer](https://www.avid.com/media-composer) *(Windows, macOS)*
 - 🔒 [Kapwing](https://www.kapwing.com) *(Browser)*
 - 🔒 [CapCut](https://www.capcut.com) *(Browser, Windows, Android, iOS)*
+- 🔒 [ReelWorkshop](https://reelworkshop.com) *(Browser)*
 
 ## Acrobat
 
