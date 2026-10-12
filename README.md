@@ -137,6 +137,7 @@
 ## InDesign
 
 - ✨ [Scribus](https://www.scribus.net) *(Windows, macOS, Linux)*
+- ✨ [Paged.media](https://paged.media/) *(Browser)*
 - ✨ [Laidout](https://laidout.org) *(Linux)*
 - ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
 - 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, macOS)*
