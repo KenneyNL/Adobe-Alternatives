@@ -39,6 +39,7 @@
 - ✨ [digiKam](https://www.digikam.org/) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [Paint.NET](https://www.getpaint.net/) *(Windows)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
+- ⭐️ (💵) [RetouchPi](https://retouchpi.com/en/retouchpi) *(Browser)*
 - ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, macOS, Linux)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
 - ⭐️ (🔒) [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
