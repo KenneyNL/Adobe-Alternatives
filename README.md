@@ -94,6 +94,7 @@
 
 - ✨ [Inkscape](https://inkscape.org) *(Windows, macOS, Linux)*
 - ✨ [Graphite](https://graphite.rs) *(Browser now / Windows, macOS, Linux apps in future)*
+- ⭐️ [Practical Web Tools — Vector Editor](https://practicalwebtools.com/studio/vector-editor) *(Browser)*
 - ⭐️ (🔒) [Linearity Curve](https://www.linearity.io/curve) *(macOS, iOS)*
 - ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
 - 💵 (⌛) [Boxy SVG](https://boxy-svg.com) *(Browser)*
@@ -217,6 +218,7 @@
 - ✨ [Pitivi](https://www.pitivi.org/) *(Linux)*
 - ⭐️ (💵) [Lightworks](https://lwks.com/) *(Windows, macOS, Linux)*
 - ⭐️ [PIKIMOV](https://pikimov.com/) *(Browser)*
+- ⭐️ [Practical Web Tools — Video Editor](https://practicalwebtools.com/studio/video-editor) *(Browser)*
 - ⭐️ [wide.video](https://wide.video) *(Browser)*
 - ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, macOS, Linux)*
@@ -240,6 +242,7 @@
 - ⭐️ (💵, 🔒) [Foxit](https://www.foxit.com) *(Windows, macOS, Android, iOS, Browser)*
 - ⭐️ [PDFgear](https://www.pdfgear.com/) *(Windows, macOS, Android, iOS)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
+- ⭐️ [Practical Web Tools — PDF Organizer](https://practicalwebtools.com/studio/pdf-organizer) *(Browser)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 💵 (or 🔒) [PDF Expert](https://pdfexpert.com) *(macOS, iOS)*
 - 🔒 [Bluebeam](https://www.bluebeam.com) *(Browser, Windows, Android, iOS)*
@@ -287,6 +290,7 @@
 - ✨ [Tenacity](https://tenacityaudio.org) *(Windows, Linux)*
 - ✨ [Audacity](https://www.audacityteam.org) *(Windows, macOS, Linux)*
 - ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(Windows, macOS, Linux)*
+- ⭐️ [Practical Web Tools — Audio Workstation](https://practicalwebtools.com/studio/audio-workstation) *(Browser)*
 - ⭐️ (💵) [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, macOS, Linux)*
 - ⭐️ [Wavosaur](https://fr.wavosaur.com/) *(Windows)*
 - 💵 [GoldWave](http://www.goldwave.com) *(Windows, macOS, Linux)*
