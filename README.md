@@ -33,6 +33,7 @@
 
 ### Photography
 
+- ✨ [PhotoCraft](https://github.com/storytold/photocraft) *(Windows, macOS, Linux)*
 - ✨ [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) *(Windows, macOS, Linux)*
 - ✨ [GIMP](https://www.gimp.org) *(Windows, macOS, Linux)*
 - ✨️ [Pinta](https://www.pinta-project.com) *(Windows, macOS, Linux)*
@@ -92,6 +93,7 @@
 
 ### General
 
+- ✨ [VectorCraft](https://github.com/storytold/vectorcraft) *(Windows, macOS, Linux, FreeBSD)*
 - ✨ [Inkscape](https://inkscape.org) *(Windows, macOS, Linux)*
 - ✨ [Graphite](https://graphite.rs) *(Browser now / Windows, macOS, Linux apps in future)*
 - ⭐️ (🔒) [Linearity Curve](https://www.linearity.io/curve) *(macOS, iOS)*
@@ -136,6 +138,7 @@
 
 ## InDesign
 
+- ✨ [DesignCraft](https://github.com/storytold/artcraft) *(Windows, macOS, Linux)*
 - ✨ [Scribus](https://www.scribus.net) *(Windows, macOS, Linux)*
 - ✨ [Laidout](https://laidout.org) *(Linux)*
 - ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
@@ -174,6 +177,7 @@
 
 ## Lightroom
 
+- ✨ [LightCraft](https://github.com/storytold/artcraft) *(Windows, macOS, Linux)*
 - ✨ [ART](https://artraweditor.github.io/) *(Windows, macOS, Linux)*
 - ✨ [RawTherapee](https://www.rawtherapee.com) *(Windows, macOS, Linux)*
 - ✨ [Darktable](https://www.darktable.org) *(Windows, macOS, Linux)*
@@ -205,6 +209,7 @@
 
 ## Premiere
 
+- ✨ [FilmCraft](https://github.com/storytold/filmcraft) *(Windows, macOS, Linux)*
 - ✨ [Blender](https://blender.org/) *(Windows, macOS, Linux)*
 - ✨ [Olive](https://olivevideoeditor.org) *(Windows, macOS, Linux)*
 - ✨ [Kdenlive](https://kdenlive.org) *(Windows, macOS, Linux)*
@@ -230,6 +235,7 @@
 
 ### Editor
 
+- ✨ [PdfCraft](https://github.com/storytold/artcraft) *(Windows, macOS, Linux)*
 - ✨ [PDF Arranger](https://github.com/pdfarranger/pdfarranger) *(Windows, Linux)*
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, macOS, Linux)*
 - ✨ [Inkscape](https://inkscape.org) *(Windows, macOS, Linux)*
@@ -321,6 +327,7 @@
 
 ### Compositing and effects
 
+- ✨ [EffectCraft](https://github.com/storytold/artcraft) *(Windows, macOS, Linux)*
 - ✨ [Natron](https://natrongithub.github.io) *(Windows, macOS, Linux)*
 - ✨ [Bforartists](https://www.bforartists.de) *(Windows, macOS, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, macOS, Linux)*
