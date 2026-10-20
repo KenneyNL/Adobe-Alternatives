@@ -42,10 +42,12 @@
 - ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, macOS, Linux)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
 - ⭐️ (🔒) [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
+- ⭐️ (🔒)[PhotoScape](http://www.photoscape.org/ps/main/index.php) *(Windows, macOS)*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(macOS)*
 - 💵 [PaintShop Pro](https://www.paintshoppro.com) *(Windows)*
 - 💵 [Photoline](https://www.pl32.com) *(Windows, macOS)*
 - 💵 [Acorn](https://flyingmeat.com/acorn) *(macOS)*
+
 
 ### Painting
 
