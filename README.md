@@ -37,6 +37,7 @@
 - ✨ [GIMP](https://www.gimp.org) *(Windows, macOS, Linux)*
 - ✨️ [Pinta](https://www.pinta-project.com) *(Windows, macOS, Linux)*
 - ✨ [digiKam](https://www.digikam.org/) *(Windows, macOS, Linux)*
+- ✨ [PhotoCraft](https://getartcraft.com/apps/photocraft) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [Paint.NET](https://www.getpaint.net/) *(Windows)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ (💵, 🔒) [Sumopaint](https://paint.sumo.app) *(Browser, Windows, macOS, Linux)*
@@ -94,6 +95,7 @@
 
 - ✨ [Inkscape](https://inkscape.org) *(Windows, macOS, Linux)*
 - ✨ [Graphite](https://graphite.rs) *(Browser now / Windows, macOS, Linux apps in future)*
+- ✨ [VectorCraft](https://getartcraft.com/apps/vectorcraft) *(Windows, macOS, Linux)*
 - ⭐️ (🔒) [Linearity Curve](https://www.linearity.io/curve) *(macOS, iOS)*
 - ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
 - 💵 (⌛) [Boxy SVG](https://boxy-svg.com) *(Browser)*
@@ -138,6 +140,7 @@
 
 - ✨ [Scribus](https://www.scribus.net) *(Windows, macOS, Linux)*
 - ✨ [Laidout](https://laidout.org) *(Linux)*
+- ✨ [DesignCraft](https://getartcraft.com/apps/designcraft) *(Windows, macOS, Linux)*
 - ⭐️ [Affinity](https://www.affinity.studio/) *(Windows, macOS, iOS(under development))*
 - 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, macOS)*
 - 💵 [Swift Publisher](https://www.swiftpublisher.com/) *(macOS)*
@@ -179,6 +182,7 @@
 - ✨ [Darktable](https://www.darktable.org) *(Windows, macOS, Linux)*
 - ✨ [digiKam](https://www.digikam.org) *(Windows, macOS, Linux)*
 - ✨ [RapidRAW](https://www.getrapidraw.com/) *(Windows, macOS, Linux)*
+- ✨ [LightCraft](https://getartcraft.com/apps/lightcraft) *(Windows, macOS, Linux)*
 - 💵 (or 🔒) [Darkroom](https://darkroom.co) *(macOS, iOS)*
 - 💵 [Photomator](https://www.pixelmator.com/photomator/) *(macOS, iOS)*
 - 💵 [ON1 Photo RAW](https://www.on1.com) *(Windows, macOS)*
@@ -195,6 +199,7 @@
 - ✨ [Penpot](https://penpot.app) *(Windows, macOS, Linux)*
 - ✨ [Draftoola](https://github.com/nitramr/Draftoola) *(Linux)*
 - ✨ [Quant-UX](https://quant-ux.com/) *(Windows, macOS, Linux)*
+- ✨ [FigCraft](https://getartcraft.com/apps/figcraft) *(Windows, macOS, Linux)*
 - ⭐️ [Lunacy](https://icons8.com/lunacy) *(Windows, macOS, Linux)*
 - ⭐️ (🔒) [Figma](https://www.figma.com)  *(Browser, Windows, macOS)*
 - 💵 [Sketch](https://www.sketch.com) *(macOS)*
@@ -215,6 +220,7 @@
 - ✨ [LiVES](http://lives-video.com/) *(macOS, Linux)*
 - ✨ [VirtualDub](https://www.virtualdub.org/) *(Windows)*
 - ✨ [Pitivi](https://www.pitivi.org/) *(Linux)*
+- ✨ [FilmCraft](https://getartcraft.com/apps/filmcraft) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [Lightworks](https://lwks.com/) *(Windows, macOS, Linux)*
 - ⭐️ [PIKIMOV](https://pikimov.com/) *(Browser)*
 - ⭐️ [wide.video](https://wide.video) *(Browser)*
@@ -237,6 +243,7 @@
 - ✨ [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) *(Windows, macOS, Linux)*
 - ✨ [Scribus](https://www.scribus.net/) *(Windows, macOS, Linux)*
 - ✨ [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) *(Windows, macOS, Linux)*
+- ✨ [PdfCraft](https://getartcraft.com/apps/pdfcraft) *(Windows, macOS, Linux)*
 - ⭐️ (💵, 🔒) [Foxit](https://www.foxit.com) *(Windows, macOS, Android, iOS, Browser)*
 - ⭐️ [PDFgear](https://www.pdfgear.com/) *(Windows, macOS, Android, iOS)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
@@ -325,6 +332,7 @@
 - ✨ [Bforartists](https://www.bforartists.de) *(Windows, macOS, Linux)*
 - ✨ [Blender](https://www.blender.org) *(Windows, macOS, Linux)*
 - ✨ [Gaffer](https://www.gafferhq.org) *(Windows, macOS, Linux)*
+- ✨ [EffectCraft](https://getartcraft.com/apps/effectcraft) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/products/davinciresolve/fusion) *(Windows, macOS, Linux)*
 - ⭐️ (💵) [Fusion](https://www.blackmagicdesign.com/products/fusion) *(Windows, macOS, Linux)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, macOS, Linux)*
