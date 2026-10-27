@@ -106,6 +106,7 @@
 - ✨ [SVGcode](https://svgco.de) *(Browser)*
 - ✨ [VTracer](https://www.visioncortex.org/vtracer) *(Browser, Windows, macOS, Linux)*
 - ✨ [CR8tracer](https://cr8software.net/tracer.html) *(Windows)*
+- ⭐️ [Pic2Vector](https://pic2vector.com/) *(Browser)*
 - 💵 [Vector Magic](https://vectormagic.com) *(Windows, macOS, Linux)*
 
 ## Animate
