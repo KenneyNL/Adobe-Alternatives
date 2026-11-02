@@ -68,6 +68,7 @@
 - 💵 [Infinite Studio](https://www.infinitestudio.art) *(Android, iOS)*
 - 💵 [Realistic Paint Studio](https://realisticpaint.com) *(Windows, macOS, iOS)*
 - 💵 [ArtRage](https://www.artrage.com/artrage) *(Windows, macOS, Android, iOS)*
+- 💵 [Rindraw](https://rindraw.com) *(macOS, iOS)*
 
 ### Pixel art
 
