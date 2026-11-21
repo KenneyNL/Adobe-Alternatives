@@ -343,6 +343,7 @@
 - ✨ [AstroFox](https://astrofox.io) *(Windows, macOS, Linux)*
 - ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(macOS, iOS)*
 - ⭐️ (🔒) [Cavalry](https://cavalry.scenegroup.co) *(Windows, macOS)*
+- ⭐️ (🔒) [iArt](https://www.iart.ai) *(Browser)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(macOS, iOS)*
 - 💵 (⌛🔒) [Autograph](https://www.left-angle.com) *(Windows, macOS, Linux)*
 - 🔒 [Jitter](https://jitter.video) *(Browser)*
